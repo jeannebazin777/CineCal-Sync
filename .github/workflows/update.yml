@@ -1,0 +1,32 @@
+name: Update Cinematheque Calendar
+
+on:
+  schedule:
+    - cron: '0 6 * * *' # Lance le script tous les jours à 6h00 UTC
+  workflow_dispatch: # Permet de lancer manuellement pour tester
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+          
+      - name: Install dependencies
+        run: |
+          pip install requests beautifulsoup4 icalendar
+          
+      - name: Run scraper and generate ICS
+        run: python cine_scraper.py
+        
+      - name: Commit and push changes
+        run: |
+          git config --global user.name 'CineBot Action'
+          git config --global user.email 'action@github.com'
+          git add feed.ics
+          # Ne commit et push que si le fichier a changé
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update Cinematheque calendar" && git push)
