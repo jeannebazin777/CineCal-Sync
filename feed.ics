@@ -3,2047 +3,16 @@ VERSION:2.0
 PRODID:-//Cinémathèque Synchro (Bouton Data)//
 X-WR-CALNAME:Cinémathèque Française (Synchronisé)
 BEGIN:VEVENT
-SUMMARY:Le Complot de la famille Inugami
-DTSTART:20260312T200000
-DTEND:20260312T222600
-UID:202603122000-LeComplot@cine.fr
-DESCRIPTION:Le Complot de la famille Inugami
-LOCATION:Salle Salle Georges Franju - La cinémathèque française - 51 Ru
- e de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44873.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Samson
-DTSTART:20260222T173000
-DTEND:20260222T185800
-UID:202602221730-Samson@cine.fr
-DESCRIPTION:Samson
-LOCATION:Salle Salle Jean Epstein - La cinémathèque française - 51 Rue 
- de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44528.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Les Deux Orphelines
-DTSTART:20260307T161500
-DTEND:20260307T174200
-UID:202603071615-LesDeuxO@cine.fr
-DESCRIPTION:Les Deux Orphelines
-LOCATION:Salle Salle Georges Franju - La cinémathèque française - 51 Ru
- e de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44539.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Les Cannibales
-DTSTART:20260314T193000
-DTEND:20260314T205400
-UID:202603141930-LesCannib@cine.fr
-DESCRIPTION:Les Cannibales
-LOCATION:Salle Ecoles Cinéma Club - La cinémathèque française - 51 Rue
-  de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44854.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Atelier Y'a un truc (3-6 ans)
-DTSTART:20260328T153000
-DTEND:20260328T170000
-UID:202603281530-AtelierY'@cine.fr
-DESCRIPTION:Atelier Y'a un truc (3-6 ans)
-LOCATION:Salle Salle libre - La cinémathèque française - 51 Rue de Berc
- y\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44711.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dracula
-DTSTART:20260313T171500
-DTEND:20260313T190700
-UID:202603131715-Dracula@cine.fr
-DESCRIPTION:Dracula
-LOCATION:Salle Salle Henri Langlois - La cinémathèque française - 51 Ru
- e de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44820.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Atelier Mr. Fox et sa bande (13-15 ans)
-DTSTART:20260321T150000
-DTEND:20260321T173000
-UID:202603211500-AtelierMr@cine.fr
-DESCRIPTION:Atelier Mr. Fox et sa bande (13-15 ans)
-LOCATION:Salle Salle libre - La cinémathèque française - 51 Rue de Berc
- y\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44729.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Decision to Leave
-DTSTART:20260226T203000
-DTEND:20260226T224800
-UID:202602262030-Decisiont@cine.fr
-DESCRIPTION:Decision to Leave
-LOCATION:Salle Salle Henri Langlois - La cinémathèque française - 51 Ru
- e de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44381.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Manège / L'Arrière-pays
-DTSTART:20260314T203000
-DTEND:20260314T221400
-UID:202603142030-Manège/L@cine.fr
-DESCRIPTION:Manège\nL'Arrière-pays
-LOCATION:Salle Salle Jean Epstein - La cinémathèque française - 51 Rue 
- de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44871.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Justin de Marseille
-DTSTART:20260219T213000
-DTEND:20260219T230900
-UID:202602192130-Justinde@cine.fr
-DESCRIPTION:Justin de Marseille
-LOCATION:Salle Salle Georges Franju - La cinémathèque française - 51 Ru
- e de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44512.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pink Narcissus
-DTSTART:20260315T170000
-DTEND:20260315T181100
-UID:202603151700-PinkNarci@cine.fr
-DESCRIPTION:Pink Narcissus
-LOCATION:Salle L'Archipel - La cinémathèque française - 51 Rue de Bercy
- \, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44867.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Alouette\, je te plumerai
-DTSTART:20260315T140000
-DTEND:20260315T153800
-UID:202603151400-Alouette\,@cine.fr
-DESCRIPTION:Alouette\, je te plumerai
-LOCATION:Salle Grand Action - La cinémathèque française - 51 Rue de Ber
- cy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44888.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Maigret et le mort amoureux
-DTSTART:20260216T200000
-DTEND:20260216T220000
-UID:202602162000-Maigretet@cine.fr
-DESCRIPTION:Maigret et le mort amoureux
-LOCATION:Salle Salle Henri Langlois - La cinémathèque française - 51 Ru
- e de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44387.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Les Fleurs blanches et la Lune / Et quand l'aube viendra / Bel com
- panho
-DTSTART:20260302T190000
-DTEND:20260302T200900
-UID:202603021900-LesFleurs@cine.fr
-DESCRIPTION:Les Fleurs blanches et la Lune\nEt quand l'aube viendra\nBel c
- ompanho
-LOCATION:Salle Salle Jean Epstein - La cinémathèque française - 51 Rue 
- de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44614.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La Nuit des juges
-DTSTART:20260306T211500
-DTEND:20260306T230400
-UID:202603062115-LaNuitde@cine.fr
-DESCRIPTION:La Nuit des juges
-LOCATION:Salle Salle Jean Epstein - La cinémathèque française - 51 Rue 
- de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44623.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:City on Fire
-DTSTART:20260227T180000
-DTEND:20260227T194500
-UID:202602271800-CityonFi@cine.fr
-DESCRIPTION:City on Fire
-LOCATION:Salle Salle Henri Langlois - La cinémathèque française - 51 Ru
- e de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44373.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Atelier Le voyage du hérisson (7-9 ans)
-DTSTART:20260509T150000
-DTEND:20260509T170000
-UID:202605091500-AtelierLe@cine.fr
-DESCRIPTION:Atelier Le voyage du hérisson (7-9 ans)
-LOCATION:Salle Salle libre - La cinémathèque française - 51 Rue de Berc
- y\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44719.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Atelier Créatures fantastiques (13-15 ans)
-DTSTART:20260613T150000
-DTEND:20260613T170000
-UID:202606131500-AtelierCr@cine.fr
-DESCRIPTION:Atelier Créatures fantastiques (13-15 ans)
-LOCATION:Salle Salle libre - La cinémathèque française - 51 Rue de Berc
- y\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44732.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La Phalène blanche
-DTSTART:20260225T200000
-DTEND:20260225T211000
-UID:202602252000-LaPhalène@cine.fr
-DESCRIPTION:La Phalène blanche
-LOCATION:Salle Salle Georges Franju - La cinémathèque française - 51 Ru
- e de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44542.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tatami
-DTSTART:20260315T190000
-DTEND:20260315T200300
-UID:202603151900-Tatami@cine.fr
-DESCRIPTION:Tatami
-LOCATION:Salle Salle Jean Epstein - La cinémathèque française - 51 Rue 
- de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44860.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Visite guidée du Musée Méliès
-DTSTART:20260314T160000
-DTEND:20260314T173000
-UID:202603141600-Visitegui@cine.fr
-DESCRIPTION:Visite guidée du Musée Méliès
-LOCATION:Salle Musée - La cinémathèque française - 51 Rue de Bercy\, 7
- 5012 Paris
-URL:https://www.cinematheque.fr/seance/40671.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:À la découverte des trucages de Georges Méliès
-DTSTART:20260302T140000
-DTEND:20260302T170000
-UID:202603021400-Àladécou@cine.fr
-DESCRIPTION:À la découverte des trucages de Georges Méliès
-LOCATION:Salle La mezzanine - La cinémathèque française - 51 Rue de Ber
- cy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44812.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Liberty Belle
-DTSTART:20260228T150000
-DTEND:20260228T165200
-UID:202602281500-LibertyBe@cine.fr
-DESCRIPTION:Liberty Belle
-LOCATION:Salle Salle Jean Epstein - La cinémathèque française - 51 Rue 
- de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44399.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Visite guidée du Musée Méliès
-DTSTART:20260314T160000
-DTEND:20260314T173000
-UID:202603141600-Visitegui@cine.fr
-DESCRIPTION:Visite guidée du Musée Méliès
-LOCATION:Salle Musée - La cinémathèque française - 51 Rue de Bercy\, 7
- 5012 Paris
-URL:https://www.cinematheque.fr/seance/40662.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:À nous la liberté
-DTSTART:20260220T163000
-DTEND:20260220T180700
-UID:202602201630-Ànousla@cine.fr
-DESCRIPTION:À nous la liberté
-LOCATION:Salle Salle Georges Franju - La cinémathèque française - 51 Ru
- e de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44566.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Les pratiques d'archivage des films kurdes\, de la collecte à la 
- collection. Conférence de Pauline Tucoulet
-DTSTART:20260311T180000
-DTEND:20260311T193000
-UID:202603111800-Lespratiq@cine.fr
-DESCRIPTION:Les pratiques d'archivage des films kurdes\, de la collecte à
-  la collection. Conférence de Pauline Tucoulet
-LOCATION:Salle Salle Musidora (Bibliothèque) - La cinémathèque françai
- se - 51 Rue de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44912.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Une pauvre petite fille riche
-DTSTART:20260227T170000
-DTEND:20260227T180500
-UID:202602271700-Unepauvre@cine.fr
-DESCRIPTION:Une pauvre petite fille riche
-LOCATION:Salle Salle Georges Franju - La cinémathèque française - 51 Ru
- e de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44532.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Péchés de jeunesse
-DTSTART:20260307T203000
-DTEND:20260307T220800
-UID:202603072030-Péchésde@cine.fr
-DESCRIPTION:Péchés de jeunesse
-LOCATION:Salle Salle Georges Franju - La cinémathèque française - 51 Ru
- e de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44522.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:WarGames
-DTSTART:20260312T170000
-DTEND:20260312T185400
-UID:202603121700-WarGames@cine.fr
-DESCRIPTION:WarGames
-LOCATION:Salle La Filmothèque du Quartier latin - La cinémathèque fran
- çaise - 51 Rue de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44913.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Au nom de la loi
-DTSTART:20260221T171500
-DTEND:20260221T184000
-UID:202602211715-Aunomde@cine.fr
-DESCRIPTION:Au nom de la loi
-LOCATION:Salle Salle Jean Epstein - La cinémathèque française - 51 Rue 
- de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44526.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Règlement de comptes à O.K. Corral
-DTSTART:20260313T160000
-DTEND:20260313T180200
-UID:202603131600-Règlement@cine.fr
-DESCRIPTION:Règlement de comptes à O.K. Corral
-LOCATION:Salle Salle Georges Franju - La cinémathèque française - 51 Ru
- e de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44910.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La Main du diable
-DTSTART:20260307T140000
-DTEND:20260307T152100
-UID:202603071400-LaMaindu@cine.fr
-DESCRIPTION:La Main du diable
-LOCATION:Salle Salle Georges Franju - La cinémathèque française - 51 Ru
- e de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44651.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Atelier Monstres de l'espace (7-9 ans)
-DTSTART:20260307T150000
-DTEND:20260307T170000
-UID:202603071500-AtelierMo@cine.fr
-DESCRIPTION:Atelier Monstres de l'espace (7-9 ans)
-LOCATION:Salle Salle libre - La cinémathèque française - 51 Rue de Berc
- y\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44053.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Stage de 3 jours : Dis-moi ce que tu vois... Je filmerai ce que j'
- ai entendu (10-12 ans)
-DTSTART:20260422T100000
-DTEND:20260422T100000
-UID:202604221000-Stagede3@cine.fr
-DESCRIPTION:Stage de 3 jours : Dis-moi ce que tu vois... Je filmerai ce qu
- e j'ai entendu (10-12 ans)
-LOCATION:Salle Salle libre - La cinémathèque française - 51 Rue de Berc
- y\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44741.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Atelier Pixi Quiz (10-12 ans)
-DTSTART:20260307T150000
-DTEND:20260307T170000
-UID:202603071500-AtelierPi@cine.fr
-DESCRIPTION:Atelier Pixi Quiz (10-12 ans)
-LOCATION:Salle Salle libre - La cinémathèque française - 51 Rue de Berc
- y\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44064.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wives
-DTSTART:20260314T180000
-DTEND:20260314T192700
-UID:202603141800-Wives@cine.fr
-DESCRIPTION:Wives
-LOCATION:Salle Cinéma Reflet Médicis - La cinémathèque française - 51
-  Rue de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44882.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La Légende des huit samouraïs
-DTSTART:20260315T153000
-DTEND:20260315T174300
-UID:202603151530-LaLégende@cine.fr
-DESCRIPTION:La Légende des huit samouraïs
-LOCATION:Salle Christine Cinéma Club - La cinémathèque française - 51 
- Rue de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44878.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La Fièvre du samedi soir / Dialogue avec John Badham. Animé par 
- Jean-François Rauger et Murielle Joudet
-DTSTART:20260314T161500
-DTEND:20260314T191300
-UID:202603141615-LaFièvre@cine.fr
-DESCRIPTION:La Fièvre du samedi soir\nDialogue avec John Badham. Animé p
- ar Jean-François Rauger et Murielle Joudet
-LOCATION:Salle Salle Henri Langlois - La cinémathèque française - 51 Ru
- e de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44824.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fais ton cinéma comme les pionniers (9-14 ans)
-DTSTART:20260705T160000
-DTEND:20260705T170000
-UID:202607051600-Faistonc@cine.fr
-DESCRIPTION:Fais ton cinéma comme les pionniers (9-14 ans)
-LOCATION:Salle Salle libre - La cinémathèque française - 51 Rue de Berc
- y\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44740.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ville à vendre
-DTSTART:20260311T161500
-DTEND:20260311T175500
-UID:202603111615-Villeàve@cine.fr
-DESCRIPTION:Ville à vendre
-LOCATION:Salle Salle Jean Epstein - La cinémathèque française - 51 Rue 
- de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44847.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wives III
-DTSTART:20260315T170000
-DTEND:20260315T181600
-UID:202603151700-WivesIII@cine.fr
-DESCRIPTION:Wives III
-LOCATION:Salle Salle Jean Epstein - La cinémathèque française - 51 Rue 
- de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44880.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Le Maître du logis
-DTSTART:20260315T200000
-DTEND:20260315T214600
-UID:202603152000-LeMaître@cine.fr
-DESCRIPTION:Le Maître du logis
-LOCATION:Salle Salle Henri Langlois - La cinémathèque française - 51 Ru
- e de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44870.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Figures de cire / Prunella / La Bergère d'Ivry / Le Friquet
-DTSTART:20260305T183000
-DTEND:20260305T195700
-UID:202603051830-Figuresde@cine.fr
-DESCRIPTION:Figures de cire\nPrunella\nLa Bergère d'Ivry\nLe Friquet
-LOCATION:Salle Salle Jean Epstein - La cinémathèque française - 51 Rue 
- de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44549.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Officier et gentleman
-DTSTART:20260311T140000
-DTEND:20260311T160400
-UID:202603111400-Officiere@cine.fr
-DESCRIPTION:Officier et gentleman
-LOCATION:Salle Salle Georges Franju - La cinémathèque française - 51 Ru
- e de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44829.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Visites-clés : à la découverte de la naissance du cinéma
-DTSTART:20260227T140000
-DTEND:20260227T142000
-UID:202602271400-Visites-cl@cine.fr
-DESCRIPTION:Visites-clés : à la découverte de la naissance du cinéma
-LOCATION:Salle Musée - La cinémathèque française - 51 Rue de Bercy\, 7
- 5012 Paris
-URL:https://www.cinematheque.fr/seance/44795.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rien sur Robert / Leçon de cinéma avec Pascal Bonitzer
-DTSTART:20260221T143000
-DTEND:20260221T173500
-UID:202602211430-RiensurR@cine.fr
-DESCRIPTION:Rien sur Robert\nLeçon de cinéma avec Pascal Bonitzer
-LOCATION:Salle Salle Henri Langlois - La cinémathèque française - 51 Ru
- e de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44396.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Programme 3
-DTSTART:20260315T143000
-DTEND:20260315T160200
-UID:202603151430-Programme@cine.fr
-DESCRIPTION:La Magique Image\nLa Vie champêtre au marais\nLe Voyage imagi
- naire
-LOCATION:Salle Fondation Jérôme Seydoux Pathé - La cinémathèque fran
- çaise - 51 Rue de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44891.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tout de suite maintenant
-DTSTART:20260225T153000
-DTEND:20260225T170800
-UID:202602251530-Toutdesu@cine.fr
-DESCRIPTION:Tout de suite maintenant
-LOCATION:Salle Salle Jean Epstein - La cinémathèque française - 51 Rue 
- de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44395.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Trois
-DTSTART:20260311T180000
-DTEND:20260311T192000
-UID:202603111800-Trois@cine.fr
-DESCRIPTION:Trois
-LOCATION:Salle Salle Lotte Eisner - La cinémathèque française - 51 Rue 
- de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44894.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Carol for Another Christmas
-DTSTART:20260315T173000
-DTEND:20260315T185600
-UID:202603151730-Carolfor@cine.fr
-DESCRIPTION:Carol for Another Christmas
-LOCATION:Salle Salle Lotte Eisner - La cinémathèque française - 51 Rue 
- de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44844.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Les Deux Orphelines
-DTSTART:20260308T143000
-DTEND:20260308T165500
-UID:202603081430-LesDeuxO@cine.fr
-DESCRIPTION:Les Deux Orphelines
-LOCATION:Salle Salle Henri Langlois - La cinémathèque française - 51 Ru
- e de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44755.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Les cartoons de Dave Fleischer 
-DTSTART:20260315T113000
-DTEND:20260315T122000
-UID:202603151130-Lescartoo@cine.fr
-DESCRIPTION:Little Nobody\nGreedy Humpty Dumpty\nSo Does an Automobile\nTh
- e Fresh Vegetable Mystery\nPeeping Penguins\nThe Little Stranger\nKoko's T
- attoo
-LOCATION:Salle Salle Georges Franju - La cinémathèque française - 51 Ru
- e de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44869.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Atelier Mr. Fox et sa bande (13-15 ans)
-DTSTART:20260418T150000
-DTEND:20260418T173000
-UID:202604181500-AtelierMr@cine.fr
-DESCRIPTION:Atelier Mr. Fox et sa bande (13-15 ans)
-LOCATION:Salle Salle libre - La cinémathèque française - 51 Rue de Berc
- y\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44730.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Raid
-DTSTART:20260220T180000
-DTEND:20260220T194100
-UID:202602201800-TheRaid@cine.fr
-DESCRIPTION:The Raid
-LOCATION:Salle Salle Henri Langlois - La cinémathèque française - 51 Ru
- e de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44376.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Vol au-dessus d'un nid de coucou
-DTSTART:20260313T203000
-DTEND:20260313T224400
-UID:202603132030-Volau-des@cine.fr
-DESCRIPTION:Vol au-dessus d'un nid de coucou
-LOCATION:Salle Le Vincennes - La cinémathèque française - 51 Rue de Ber
- cy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44864.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Okraïna
-DTSTART:20260311T193000
-DTEND:20260311T210800
-UID:202603111930-Okraïna@cine.fr
-DESCRIPTION:Okraïna
-LOCATION:Salle Salle Georges Franju - La cinémathèque française - 51 Ru
- e de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44903.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Atelier Mettre le monde en boîte (3-6 ans)
-DTSTART:20260419T153000
-DTEND:20260419T170000
-UID:202604191530-AtelierMe@cine.fr
-DESCRIPTION:Atelier Mettre le monde en boîte (3-6 ans)
-LOCATION:Salle Salle libre - La cinémathèque française - 51 Rue de Berc
- y\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44710.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Exilé
-DTSTART:20260222T203000
-DTEND:20260222T221000
-UID:202602222030-Exilé@cine.fr
-DESCRIPTION:Exilé
-LOCATION:Salle Salle Henri Langlois - La cinémathèque française - 51 Ru
- e de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44375.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:L'Oiseau bleu
-DTSTART:20260228T204500
-DTEND:20260228T215900
-UID:202602282045-L'Oiseaub@cine.fr
-DESCRIPTION:L'Oiseau bleu
-LOCATION:Salle Salle Georges Franju - La cinémathèque française - 51 Ru
- e de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44534.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Visite guidée du Musée Méliès
-DTSTART:20260314T160000
-DTEND:20260314T173000
-UID:202603141600-Visitegui@cine.fr
-DESCRIPTION:Visite guidée du Musée Méliès
-LOCATION:Salle Musée - La cinémathèque française - 51 Rue de Bercy\, 7
- 5012 Paris
-URL:https://www.cinematheque.fr/seance/40660.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Cécile est morte
-DTSTART:20260307T183000
-DTEND:20260307T200000
-UID:202603071830-Cécileest@cine.fr
-DESCRIPTION:Cécile est morte
-LOCATION:Salle Salle Georges Franju - La cinémathèque française - 51 Ru
- e de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44519.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Atelier Bim Bam Boum (7-9 ans)
-DTSTART:20260606T150000
-DTEND:20260606T170000
-UID:202606061500-AtelierBi@cine.fr
-DESCRIPTION:Atelier Bim Bam Boum (7-9 ans)
-LOCATION:Salle Salle libre - La cinémathèque française - 51 Rue de Berc
- y\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44724.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Le retour du procédé VistaVision. Conférence de Jean-Pierre Ver
- scheure  
-DTSTART:20260313T140000
-DTEND:20260313T153000
-UID:202603131400-Leretour@cine.fr
-DESCRIPTION:Le retour du procédé VistaVision. Conférence de Jean-Pierre
-  Verscheure
-LOCATION:Salle Salle Georges Franju - La cinémathèque française - 51 Ru
- e de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44911.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Main de fer 
-DTSTART:20260313T143000
-DTEND:20260313T164100
-UID:202603131430-Maindefe@cine.fr
-DESCRIPTION:Main de fer\nMain de fer contre la bande aux gants blancs\nMai
- n de fer et l'évasion du forçat de Croze
-LOCATION:Salle Salle Jean Epstein - La cinémathèque française - 51 Rue 
- de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44872.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Atelier Le voyage du hérisson (7-9 ans)
-DTSTART:20260411T150000
-DTEND:20260411T170000
-UID:202604111500-AtelierLe@cine.fr
-DESCRIPTION:Atelier Le voyage du hérisson (7-9 ans)
-LOCATION:Salle Salle libre - La cinémathèque française - 51 Rue de Berc
- y\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44718.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Encore
-DTSTART:20260218T190000
-DTEND:20260218T203600
-UID:202602181900-Encore@cine.fr
-DESCRIPTION:Encore
-LOCATION:Salle Salle Georges Franju - La cinémathèque française - 51 Ru
- e de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44393.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ginza Cosmetics
-DTSTART:20260314T140000
-DTEND:20260314T152700
-UID:202603141400-GinzaCosm@cine.fr
-DESCRIPTION:Ginza Cosmetics
-LOCATION:Salle Salle Henri Langlois - La cinémathèque française - 51 Ru
- e de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44849.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Atelier Y'a un truc (3-6 ans)
-DTSTART:20260329T153000
-DTEND:20260329T170000
-UID:202603291530-AtelierY'@cine.fr
-DESCRIPTION:Atelier Y'a un truc (3-6 ans)
-LOCATION:Salle Salle libre - La cinémathèque française - 51 Rue de Berc
- y\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44712.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fais ton cinéma comme les pionniers (9-14 ans)
-DTSTART:20260607T160000
-DTEND:20260607T170000
-UID:202606071600-Faistonc@cine.fr
-DESCRIPTION:Fais ton cinéma comme les pionniers (9-14 ans)
-LOCATION:Salle Salle libre - La cinémathèque française - 51 Rue de Berc
- y\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44738.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A Bittersweet Life (Director's Cut)
-DTSTART:20260221T183000
-DTEND:20260221T203000
-UID:202602211830-ABittersw@cine.fr
-DESCRIPTION:A Bittersweet Life (Director's Cut)
-LOCATION:Salle Salle Henri Langlois - La cinémathèque française - 51 Ru
- e de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44361.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Visites-clés : à la découverte de la naissance du cinéma
-DTSTART:20260307T140000
-DTEND:20260307T142000
-UID:202603071400-Visites-cl@cine.fr
-DESCRIPTION:Visites-clés : à la découverte de la naissance du cinéma
-LOCATION:Salle Musée - La cinémathèque française - 51 Rue de Bercy\, 7
- 5012 Paris
-URL:https://www.cinematheque.fr/seance/44803.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Journée ciné-burlesque (7- 9 ans)
-DTSTART:20260429T100000
-DTEND:20260429T100000
-UID:202604291000-Journéeci@cine.fr
-DESCRIPTION:Journée ciné-burlesque (7- 9 ans)
-LOCATION:Salle Salle libre - La cinémathèque française - 51 Rue de Berc
- y\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44742.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Migrations : La Guerre la plus glorieuse
-DTSTART:20260313T203000
-DTEND:20260313T223000
-UID:202603132030-Migrations@cine.fr
-DESCRIPTION:Migrations : La Guerre la plus glorieuse
-LOCATION:Salle Christine Cinéma Club - La cinémathèque française - 51 
- Rue de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44899.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Chameleon Street
-DTSTART:20260313T180000
-DTEND:20260313T193400
-UID:202603131800-Chameleon@cine.fr
-DESCRIPTION:Chameleon Street
-LOCATION:Salle Salle Jean Epstein - La cinémathèque française - 51 Rue 
- de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44859.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:L'Équipage
-DTSTART:20260302T180000
-DTEND:20260302T195500
-UID:202603021800-L'Équipage@cine.fr
-DESCRIPTION:L'Équipage
-LOCATION:Salle Salle Georges Franju - La cinémathèque française - 51 Ru
- e de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44541.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Atelier Traces de lumiere (3-6 ans)
-DTSTART:20260627T153000
-DTEND:20260627T170000
-UID:202606271530-AtelierTr@cine.fr
-DESCRIPTION:Atelier Traces de lumiere (3-6 ans)
-LOCATION:Salle Salle libre - La cinémathèque française - 51 Rue de Berc
- y\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44713.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Un été pourri
-DTSTART:20260306T190000
-DTEND:20260306T204300
-UID:202603061900-Unétépou@cine.fr
-DESCRIPTION:Un été pourri
-LOCATION:Salle Salle Jean Epstein - La cinémathèque française - 51 Rue 
- de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44622.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Regarde\, elle a les yeux grand ouverts
-DTSTART:20260313T180000
-DTEND:20260313T195000
-UID:202603131800-Regarde\,e@cine.fr
-DESCRIPTION:Regarde\, elle a les yeux grand ouverts
-LOCATION:Salle Salle Lotte Eisner - La cinémathèque française - 51 Rue 
- de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44852.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La Nouvelle Babylone
-DTSTART:20260306T200000
-DTEND:20260306T212000
-UID:202603062000-LaNouvell@cine.fr
-DESCRIPTION:La Nouvelle Babylone
-LOCATION:Salle Salle Henri Langlois - La cinémathèque française - 51 Ru
- e de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44752.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Police Story
-DTSTART:20260221T150000
-DTEND:20260221T162500
-UID:202602211500-PoliceSto@cine.fr
-DESCRIPTION:Police Story
-LOCATION:Salle Salle Georges Franju - La cinémathèque française - 51 Ru
- e de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44374.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tricheurs
-DTSTART:20260227T183000
-DTEND:20260227T200400
-UID:202602271830-Tricheurs@cine.fr
-DESCRIPTION:Tricheurs
-LOCATION:Salle Salle Jean Epstein - La cinémathèque française - 51 Rue 
- de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44397.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tendres Passions / Dialogue avec Debra Winger. Animé par Pauline 
- de Raymond 
-DTSTART:20260313T194500
-DTEND:20260313T225700
-UID:202603131945-TendresPa@cine.fr
-DESCRIPTION:Tendres Passions\nDialogue avec Debra Winger. Animé par Pauli
- ne de Raymond
-LOCATION:Salle Salle Henri Langlois - La cinémathèque française - 51 Ru
- e de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44832.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tous au carnaval !
-DTSTART:20260225T150000
-DTEND:20260225T160000
-UID:202602251500-Tousauca@cine.fr
-DESCRIPTION:Page d'écriture\nCarnavallée\nLe Masque du diable\nSaltimban
- ques\nRuunpe\nVille et Cœur\nParade\nFilante
-LOCATION:Salle Salle Georges Franju - La cinémathèque française - 51 Ru
- e de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44596.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Le Patriote
-DTSTART:20260304T180000
-DTEND:20260304T194500
-UID:202603041800-LePatriot@cine.fr
-DESCRIPTION:Le Patriote
-LOCATION:Salle Salle Georges Franju - La cinémathèque française - 51 Ru
- e de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44514.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tonnerre de feu
-DTSTART:20260315T140000
-DTEND:20260315T154800
-UID:202603151400-Tonnerred@cine.fr
-DESCRIPTION:Tonnerre de feu
-LOCATION:Salle Salle Georges Franju - La cinémathèque française - 51 Ru
- e de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44823.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Le Val d'enfer
-DTSTART:20260223T183000
-DTEND:20260223T195800
-UID:202602231830-LeVald'e@cine.fr
-DESCRIPTION:Le Val d'enfer
-LOCATION:Salle Salle Georges Franju - La cinémathèque française - 51 Ru
- e de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44540.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Les Derniers Jours de Pompéi
-DTSTART:20260314T163000
-DTEND:20260314T181700
-UID:202603141630-LesDernie@cine.fr
-DESCRIPTION:Les Derniers Jours de Pompéi
-LOCATION:Salle Fondation Jérôme Seydoux Pathé - La cinémathèque fran
- çaise - 51 Rue de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44857.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Les Guerriers de l'Apocalypse
-DTSTART:20260314T140000
-DTEND:20260314T161900
-UID:202603141400-LesGuerri@cine.fr
-DESCRIPTION:Les Guerriers de l'Apocalypse
-LOCATION:Salle Christine Cinéma Club - La cinémathèque française - 51 
- Rue de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44876.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La Légende de Gösta Berling
-DTSTART:20260308T190000
-DTEND:20260308T220000
-UID:202603081900-LaLégende@cine.fr
-DESCRIPTION:La Légende de Gösta Berling
-LOCATION:Salle Salle Henri Langlois - La cinémathèque française - 51 Ru
- e de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44756.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Shokuzai\, partie 2 : Celles qui voulaient oublier
-DTSTART:20260228T183000
-DTEND:20260228T210200
-UID:202602281830-Shokuzai\,@cine.fr
-DESCRIPTION:Shokuzai\, partie 2 : Celles qui voulaient oublier
-LOCATION:Salle Salle Henri Langlois - La cinémathèque française - 51 Ru
- e de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44366.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Till We Meet Again
-DTSTART:20260315T163000
-DTEND:20260315T175800
-UID:202603151630-TillWeMe@cine.fr
-DESCRIPTION:Till We Meet Again
-LOCATION:Salle Salle Georges Franju - La cinémathèque française - 51 Ru
- e de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44838.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Un dimanche avec... Alice Guy (dès 8 ans)
-DTSTART:20260412T143000
-DTEND:20260412T170000
-UID:202604121430-Undimanch@cine.fr
-DESCRIPTION:Un dimanche avec... Alice Guy (dès 8 ans)
-LOCATION:Salle Salle libre - La cinémathèque française - 51 Rue de Berc
- y\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44715.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ivan le Terrible
-DTSTART:20260315T134500
-DTEND:20260315T165500
-UID:202603151345-IvanleTe@cine.fr
-DESCRIPTION:Ivan le Terrible
-LOCATION:Salle La Filmothèque du Quartier latin - La cinémathèque fran
- çaise - 51 Rue de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44904.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Les Gaîtés de l'escadron
-DTSTART:20260221T191500
-DTEND:20260221T204000
-UID:202602211915-LesGaîtés@cine.fr
-DESCRIPTION:Les Gaîtés de l'escadron
-LOCATION:Salle Salle Jean Epstein - La cinémathèque française - 51 Rue 
- de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44527.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Le Client de la morte saison
-DTSTART:20260313T160000
-DTEND:20260313T173000
-UID:202603131600-LeClient@cine.fr
-DESCRIPTION:Le Client de la morte saison
-LOCATION:Salle La Filmothèque du Quartier latin - La cinémathèque fran
- çaise - 51 Rue de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44853.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fais ton cinéma comme les pionniers (9-14 ans)
-DTSTART:20260705T143000
-DTEND:20260705T153000
-UID:202607051430-Faistonc@cine.fr
-DESCRIPTION:Fais ton cinéma comme les pionniers (9-14 ans)
-LOCATION:Salle Salle libre - La cinémathèque française - 51 Rue de Berc
- y\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44739.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:L'An un
-DTSTART:20260313T173000
-DTEND:20260313T193600
-UID:202603131730-L'Anun@cine.fr
-DESCRIPTION:L'An un
-LOCATION:Salle Ecoles Cinéma Club - La cinémathèque française - 51 Rue
-  de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44863.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:À la découverte des trucages de Georges Méliès
-DTSTART:20260226T140000
-DTEND:20260226T170000
-UID:202602261400-Àladécou@cine.fr
-DESCRIPTION:À la découverte des trucages de Georges Méliès
-LOCATION:Salle La mezzanine - La cinémathèque française - 51 Rue de Ber
- cy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44810.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Cherchez Hortense
-DTSTART:20260222T173000
-DTEND:20260222T190600
-UID:202602221730-CherchezH@cine.fr
-DESCRIPTION:Cherchez Hortense
-LOCATION:Salle Salle Georges Franju - La cinémathèque française - 51 Ru
- e de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44649.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Visites-clés : à la découverte de la naissance du cinéma
-DTSTART:20260221T140000
-DTEND:20260221T142000
-UID:202602211400-Visites-cl@cine.fr
-DESCRIPTION:Visites-clés : à la découverte de la naissance du cinéma
-LOCATION:Salle Musée - La cinémathèque française - 51 Rue de Bercy\, 7
- 5012 Paris
-URL:https://www.cinematheque.fr/seance/44789.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Leaving Las Vegas
-DTSTART:20260314T200000
-DTEND:20260314T215100
-UID:202603142000-LeavingLa@cine.fr
-DESCRIPTION:Leaving Las Vegas
-LOCATION:Salle Salle Lotte Eisner - La cinémathèque française - 51 Rue 
- de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44862.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Le Syndicat du crime
-DTSTART:20260301T183000
-DTEND:20260301T200500
-UID:202603011830-LeSyndica@cine.fr
-DESCRIPTION:Le Syndicat du crime
-LOCATION:Salle Salle Henri Langlois - La cinémathèque française - 51 Ru
- e de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44369.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Atelier Le voyage du hérisson (7-9 ans)
-DTSTART:20260613T150000
-DTEND:20260613T170000
-UID:202606131500-AtelierLe@cine.fr
-DESCRIPTION:Atelier Le voyage du hérisson (7-9 ans)
-LOCATION:Salle Salle libre - La cinémathèque française - 51 Rue de Berc
- y\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44720.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dr. Jekyll and Mr. Hyde
-DTSTART:20260307T143000
-DTEND:20260307T153800
-UID:202603071430-Dr.Jekyll@cine.fr
-DESCRIPTION:Dr. Jekyll and Mr. Hyde
-LOCATION:Salle Salle Henri Langlois - La cinémathèque française - 51 Ru
- e de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44753.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Caméra arabe
-DTSTART:20260311T143000
-DTEND:20260311T153400
-UID:202603111430-Caméraara@cine.fr
-DESCRIPTION:Caméra arabe
-LOCATION:Salle Salle Jean Epstein - La cinémathèque française - 51 Rue 
- de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44842.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sonatine\, mélodie mortelle / Dialogue avec Clément Rauger. Anim
- é par Bernard Benoliel 
-DTSTART:20260301T143000
-DTEND:20260301T170400
-UID:202603011430-Sonatine\,@cine.fr
-DESCRIPTION:Sonatine\, mélodie mortelle\nDialogue avec Clément Rauger. A
- nimé par Bernard Benoliel
-LOCATION:Salle Salle Henri Langlois - La cinémathèque française - 51 Ru
- e de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44650.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Le Navire des hommes perdus
-DTSTART:20260227T201500
-DTEND:20260227T221500
-UID:202602272015-LeNavire@cine.fr
-DESCRIPTION:Le Navire des hommes perdus
-LOCATION:Salle Salle Georges Franju - La cinémathèque française - 51 Ru
- e de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44543.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sailor Suit and Machine Gun
-DTSTART:20260314T210000
-DTEND:20260314T231000
-UID:202603142100-SailorSui@cine.fr
-DESCRIPTION:Sailor Suit and Machine Gun
-LOCATION:Salle Salle Georges Franju - La cinémathèque française - 51 Ru
- e de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44916.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pink Narcissus
-DTSTART:20260313T200000
-DTEND:20260313T211100
-UID:202603132000-PinkNarci@cine.fr
-DESCRIPTION:Pink Narcissus
-LOCATION:Salle Ecoles Cinéma Club - La cinémathèque française - 51 Rue
-  de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44856.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Visites-clés : à la découverte de la naissance du cinéma
-DTSTART:20260225T140000
-DTEND:20260225T142000
-UID:202602251400-Visites-cl@cine.fr
-DESCRIPTION:Visites-clés : à la découverte de la naissance du cinéma
-LOCATION:Salle Musée - La cinémathèque française - 51 Rue de Bercy\, 7
- 5012 Paris
-URL:https://www.cinematheque.fr/seance/44793.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Vincent mit l'âne dans un pré (et s'en vint dans l'autre)
-DTSTART:20260313T203000
-DTEND:20260313T221600
-UID:202603132030-Vincentmi@cine.fr
-DESCRIPTION:Vincent mit l'âne dans un pré (et s'en vint dans l'autre)
-LOCATION:Salle Salle Jean Epstein - La cinémathèque française - 51 Rue 
- de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44887.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Atelier Clip – Musique animée (10-12 ans)
-DTSTART:20260606T150000
-DTEND:20260606T170000
-UID:202606061500-AtelierCl@cine.fr
-DESCRIPTION:Atelier Clip – Musique animée (10-12 ans)
-LOCATION:Salle Salle libre - La cinémathèque française - 51 Rue de Berc
- y\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44726.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Searching for Debra Winger
+SUMMARY:¡Que viva México! / Dialogue avec Naoum Kleiman. Animé par Bern
+ ard Eisenschitz et Ada Ackerman
 DTSTART:20260314T143000
-DTEND:20260314T161000
-UID:202603141430-Searching@cine.fr
-DESCRIPTION:Searching for Debra Winger
-LOCATION:Salle Salle Lotte Eisner - La cinémathèque française - 51 Rue 
- de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44831.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Visites-clés : à la découverte de la naissance du cinéma
-DTSTART:20260301T140000
-DTEND:20260301T142000
-UID:202603011400-Visites-cl@cine.fr
-DESCRIPTION:Visites-clés : à la découverte de la naissance du cinéma
-LOCATION:Salle Musée - La cinémathèque française - 51 Rue de Bercy\, 7
- 5012 Paris
-URL:https://www.cinematheque.fr/seance/44797.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Atelier Suspense (10-12 ans)
-DTSTART:20260620T150000
-DTEND:20260620T170000
-UID:202606201500-AtelierSu@cine.fr
-DESCRIPTION:Atelier Suspense (10-12 ans)
-LOCATION:Salle Salle libre - La cinémathèque française - 51 Rue de Berc
- y\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44728.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Atelier Créatures fantastiques (13-15 ans)
-DTSTART:20260509T150000
-DTEND:20260509T170000
-UID:202605091500-AtelierCr@cine.fr
-DESCRIPTION:Atelier Créatures fantastiques (13-15 ans)
-LOCATION:Salle Salle libre - La cinémathèque française - 51 Rue de Berc
- y\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44731.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Visites-clés : à la découverte de la naissance du cinéma
-DTSTART:20260302T140000
-DTEND:20260302T142000
-UID:202603021400-Visites-cl@cine.fr
-DESCRIPTION:Visites-clés : à la découverte de la naissance du cinéma
-LOCATION:Salle Musée - La cinémathèque française - 51 Rue de Bercy\, 7
- 5012 Paris
-URL:https://www.cinematheque.fr/seance/44798.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Les Golfes se creusent / J'ai tué votre chat / Le QR code de Fran
- keasy
-DTSTART:20260216T190000
-DTEND:20260216T200500
-UID:202602161900-LesGolfes@cine.fr
-DESCRIPTION:Les Golfes se creusent\nJ'ai tué votre chat\nLe QR code de Fr
- ankeasy
+DTEND:20260314T165500
+UID:202603141430-¡Queviva@cine.fr
+DESCRIPTION:¡Que viva México!\nDialogue avec Naoum Kleiman. Animé par B
+ ernard Eisenschitz et Ada Ackerman
 LOCATION:Salle Salle Georges Franju - La cinémathèque française - 51 Ru
  e de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44613.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La Persécution
-DTSTART:20260315T143000
-DTEND:20260315T160300
-UID:202603151430-LaPersécu@cine.fr
-DESCRIPTION:La Persécution
-LOCATION:Salle Salle Jean Epstein - La cinémathèque française - 51 Rue 
- de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44917.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ne touchez pas la hache
-DTSTART:20260228T201500
-DTEND:20260228T223200
-UID:202602282015-Netouchez@cine.fr
-DESCRIPTION:Ne touchez pas la hache
-LOCATION:Salle Salle Jean Epstein - La cinémathèque française - 51 Rue 
- de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44401.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Foolish Matrons
-DTSTART:20260301T190000
-DTEND:20260301T202000
-UID:202603011900-TheFoolis@cine.fr
-DESCRIPTION:The Foolish Matrons
-LOCATION:Salle Salle Georges Franju - La cinémathèque française - 51 Ru
- e de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44537.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Trilby / Maurice Tourneur\, tisseur de rêves
-DTSTART:20260302T200000
-DTEND:20260302T222300
-UID:202603022000-Trilby/M@cine.fr
-DESCRIPTION:Trilby\nMaurice Tourneur\, tisseur de rêves
-LOCATION:Salle Salle Georges Franju - La cinémathèque française - 51 Ru
- e de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44548.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La Saga du Napoléon d'Abel Gance
-DTSTART:20260313T133000
-DTEND:20260313T142400
-UID:202603131330-LaSagadu@cine.fr
-DESCRIPTION:La Saga du Napoléon d'Abel Gance
-LOCATION:Salle Salle Lotte Eisner - La cinémathèque française - 51 Rue 
- de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44834.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sonate à Bruxelles / Manneken Pis
-DTSTART:20260311T170000
-DTEND:20260311T184500
-UID:202603111700-SonateàB@cine.fr
-DESCRIPTION:Sonate à Bruxelles\nManneken Pis
-LOCATION:Salle La Filmothèque du Quartier latin - La cinémathèque fran
- çaise - 51 Rue de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44908.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:City of Darkness
-DTSTART:20260227T204500
-DTEND:20260227T225100
-UID:202602272045-CityofDa@cine.fr
-DESCRIPTION:City of Darkness
-LOCATION:Salle Salle Henri Langlois - La cinémathèque française - 51 Ru
- e de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44380.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Programme 2
-DTSTART:20260314T143000
-DTEND:20260314T153800
-UID:202603141430-Programme@cine.fr
-DESCRIPTION:En Espagne\, l'Alcazar de Séville\nGlengarriff\nCorée : vues
-  de Séoul et du port de Chemulpo\nHarar\nFouilles du temple à Abou Simbe
- l\nJugement de Dedjaz Abraha\nLa Ligne du Yunnan de Laokay à Yunnanfu
-LOCATION:Salle Fondation Jérôme Seydoux Pathé - La cinémathèque fran
- çaise - 51 Rue de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44893.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Il pleut dans mon village
-DTSTART:20260312T200000
-DTEND:20260312T212200
-UID:202603122000-Ilpleutd@cine.fr
-DESCRIPTION:Il pleut dans mon village
-LOCATION:Salle Salle Lotte Eisner - La cinémathèque française - 51 Rue 
- de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44896.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Visites-clés : à la découverte de la naissance du cinéma
-DTSTART:20260305T140000
-DTEND:20260305T142000
-UID:202603051400-Visites-cl@cine.fr
-DESCRIPTION:Visites-clés : à la découverte de la naissance du cinéma
-LOCATION:Salle Musée - La cinémathèque française - 51 Rue de Bercy\, 7
- 5012 Paris
-URL:https://www.cinematheque.fr/seance/44801.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Atelier Bim Bam Boum (7-9 ans)
-DTSTART:20260523T150000
-DTEND:20260523T170000
-UID:202605231500-AtelierBi@cine.fr
-DESCRIPTION:Atelier Bim Bam Boum (7-9 ans)
-LOCATION:Salle Salle libre - La cinémathèque française - 51 Rue de Berc
- y\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44049.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Généalogies d'un crime
-DTSTART:20260228T173000
-DTEND:20260228T192400
-UID:202602281730-Généalogie@cine.fr
-DESCRIPTION:Généalogies d'un crime
-LOCATION:Salle Salle Jean Epstein - La cinémathèque française - 51 Rue 
- de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44400.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Étroite surveillance
-DTSTART:20260313T143000
-DTEND:20260313T162700
-UID:202603131430-Étroitesu@cine.fr
-DESCRIPTION:Étroite surveillance
-LOCATION:Salle Salle Henri Langlois - La cinémathèque française - 51 Ru
- e de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44817.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La Preuve d'un homme 
-DTSTART:20260313T203000
-DTEND:20260313T224200
-UID:202603132030-LaPreuve@cine.fr
-DESCRIPTION:La Preuve d'un homme
-LOCATION:Salle Salle Lotte Eisner - La cinémathèque française - 51 Rue 
- de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44875.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sous l'océan\, avec Marion Jamault (7-9 ans). Stage des vacances 
- d'hiver (3 jours) 
-DTSTART:20260225T100000
-DTEND:20260225T100000
-UID:202602251000-Sousl'océ@cine.fr
-DESCRIPTION:Sous l'océan\, avec Marion Jamault (7-9 ans). Stage des vacan
- ces d'hiver (3 jours)
-LOCATION:Salle Salle libre - La cinémathèque française - 51 Rue de Berc
- y\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44084.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Récits d'Ellis Island / Dialogue avec Robert Bober. Animé par Fr
- édéric Bonnaud et Émilie Cauquy
-DTSTART:20260312T140000
-DTEND:20260312T165600
-UID:202603121400-Récitsd'E@cine.fr
-DESCRIPTION:Récits d'Ellis Island\nDialogue avec Robert Bober. Animé par
-  Frédéric Bonnaud et Émilie Cauquy
-LOCATION:Salle Salle Georges Franju - La cinémathèque française - 51 Ru
- e de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44885.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La Bruyère blanche
-DTSTART:20260228T190000
-DTEND:20260228T201000
-UID:202602281900-LaBruyère@cine.fr
-DESCRIPTION:La Bruyère blanche
-LOCATION:Salle Salle Georges Franju - La cinémathèque française - 51 Ru
- e de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44546.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sans titre / WarGames
-DTSTART:20260311T200000
-DTEND:20260311T220300
-UID:202603112000-Sanstitre@cine.fr
-DESCRIPTION:Sans titre\nWarGames
-LOCATION:Salle Salle Henri Langlois - La cinémathèque française - 51 Ru
- e de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44816.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Programme 4
-DTSTART:20260315T170000
-DTEND:20260315T181800
-UID:202603151700-Programme@cine.fr
-DESCRIPTION:Nanouk l'esquimau\nZazavavindrano\, la fille des eaux
-LOCATION:Salle Fondation Jérôme Seydoux Pathé - La cinémathèque fran
- çaise - 51 Rue de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44890.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Jimmy le mystérieux
-DTSTART:20260225T180000
-DTEND:20260225T192800
-UID:202602251800-Jimmylem@cine.fr
-DESCRIPTION:Jimmy le mystérieux
-LOCATION:Salle Salle Georges Franju - La cinémathèque française - 51 Ru
- e de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44530.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Les Proscrits
-DTSTART:20260305T200000
-DTEND:20260305T214100
-UID:202603052000-LesProscr@cine.fr
-DESCRIPTION:Les Proscrits
-LOCATION:Salle Salle Henri Langlois - La cinémathèque française - 51 Ru
- e de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44751.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Atelier C'est quoi le montage ? (13-15 ans)
-DTSTART:20260530T150000
-DTEND:20260530T173000
-UID:202605301500-AtelierC'@cine.fr
-DESCRIPTION:Atelier C'est quoi le montage ? (13-15 ans)
-LOCATION:Salle Salle libre - La cinémathèque française - 51 Rue de Berc
- y\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44734.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Old Boy
-DTSTART:20260219T180000
-DTEND:20260219T195900
-UID:202602191800-OldBoy@cine.fr
-DESCRIPTION:Old Boy
-LOCATION:Salle Salle Henri Langlois - La cinémathèque française - 51 Ru
- e de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44360.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La Veuve noire
-DTSTART:20260314T180000
-DTEND:20260314T194200
-UID:202603141800-LaVeuven@cine.fr
-DESCRIPTION:La Veuve noire
-LOCATION:Salle Salle Georges Franju - La cinémathèque française - 51 Ru
- e de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44828.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Atelier Bim Bam Boum (7-9 ans)
-DTSTART:20260523T150000
-DTEND:20260523T170000
-UID:202605231500-AtelierBi@cine.fr
-DESCRIPTION:Atelier Bim Bam Boum (7-9 ans)
-LOCATION:Salle Salle libre - La cinémathèque française - 51 Rue de Berc
- y\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44723.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Le Syndicat du crime 2
-DTSTART:20260301T211500
-DTEND:20260301T225500
-UID:202603012115-LeSyndica@cine.fr
-DESCRIPTION:Le Syndicat du crime 2
-LOCATION:Salle Salle Henri Langlois - La cinémathèque française - 51 Ru
- e de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44379.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Visites-clés : à la découverte de la naissance du cinéma
-DTSTART:20260222T140000
-DTEND:20260222T142000
-UID:202602221400-Visites-cl@cine.fr
-DESCRIPTION:Visites-clés : à la découverte de la naissance du cinéma
-LOCATION:Salle Musée - La cinémathèque française - 51 Rue de Bercy\, 7
- 5012 Paris
-URL:https://www.cinematheque.fr/seance/44790.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Le Loup de Wall Street
-DTSTART:20260313T210000
-DTEND:20260313T234500
-UID:202603132100-LeLoupde@cine.fr
-DESCRIPTION:Le Loup de Wall Street
-LOCATION:Salle La Filmothèque du Quartier latin - La cinémathèque fran
- çaise - 51 Rue de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44827.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Elle et lui
-DTSTART:20260312T174500
-DTEND:20260312T191300
-UID:202603121745-Elleetlu@cine.fr
-DESCRIPTION:Elle et lui
-LOCATION:Salle Salle Lotte Eisner - La cinémathèque française - 51 Rue 
- de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44895.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Le Chantier des gosses
-DTSTART:20260312T143000
-DTEND:20260312T154600
-UID:202603121430-LeChantie@cine.fr
-DESCRIPTION:Le Chantier des gosses
-LOCATION:Salle Salle Jean Epstein - La cinémathèque française - 51 Rue 
- de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44907.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Escape-Game « Le Secret de Barbenfouillis »
-DTSTART:20260301T100000
-DTEND:20260301T110000
-UID:202603011000-Escape-Gam@cine.fr
-DESCRIPTION:Escape-Game « Le Secret de Barbenfouillis »
-LOCATION:Salle Musée - La cinémathèque française - 51 Rue de Bercy\, 7
- 5012 Paris
-URL:https://www.cinematheque.fr/seance/44806.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Maison de danses
-DTSTART:20260220T200000
-DTEND:20260220T212500
-UID:202602202000-Maisonde@cine.fr
-DESCRIPTION:Maison de danses
-LOCATION:Salle Salle Jean Epstein - La cinémathèque française - 51 Rue 
- de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44704.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PTU (Police Tactical Unit) / Dialogue avec Frédéric Ambroisine. 
- Animé par Jean-François Rauger 
-DTSTART:20260222T170000
-DTEND:20260222T192800
-UID:202602221700-PTU(Polic@cine.fr
-DESCRIPTION:PTU (Police Tactical Unit)\nDialogue avec Frédéric Ambroisin
- e. Animé par Jean-François Rauger
-LOCATION:Salle Salle Henri Langlois - La cinémathèque française - 51 Ru
- e de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44385.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Atelier C'est quoi le montage ? (13-15 ans)
-DTSTART:20260411T150000
-DTEND:20260411T173000
-UID:202604111500-AtelierC'@cine.fr
-DESCRIPTION:Atelier C'est quoi le montage ? (13-15 ans)
-LOCATION:Salle Salle libre - La cinémathèque française - 51 Rue de Berc
- y\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44733.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Raid 2
-DTSTART:20260220T203000
-DTEND:20260220T225800
-UID:202602202030-TheRaid2@cine.fr
-DESCRIPTION:The Raid 2
-LOCATION:Salle Salle Henri Langlois - La cinémathèque française - 51 Ru
- e de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44377.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rouge-gorge
-DTSTART:20260312T140000
-DTEND:20260312T154500
-UID:202603121400-Rouge-gorg@cine.fr
-DESCRIPTION:Rouge-gorge
-LOCATION:Salle Salle Lotte Eisner - La cinémathèque française - 51 Rue 
- de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44886.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kœnigsmark
-DTSTART:20260222T193000
-DTEND:20260222T212500
-UID:202602221930-Kœnigsmark@cine.fr
-DESCRIPTION:Kœnigsmark
-LOCATION:Salle Salle Jean Epstein - La cinémathèque française - 51 Rue 
- de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44529.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:À la découverte des trucages de Georges Méliès
-DTSTART:20260223T140000
-DTEND:20260223T170000
-UID:202602231400-Àladécou@cine.fr
-DESCRIPTION:À la découverte des trucages de Georges Méliès
-LOCATION:Salle La mezzanine - La cinémathèque française - 51 Rue de Ber
- cy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44808.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La Pendaison / Dialogue avec Pascal Bonitzer
-DTSTART:20260220T190000
-DTEND:20260220T215700
-UID:202602201900-LaPendais@cine.fr
-DESCRIPTION:La Pendaison\nDialogue avec Pascal Bonitzer
-LOCATION:Salle Salle Georges Franju - La cinémathèque française - 51 Ru
- e de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44660.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ivan Tsarévitch et la Princesse changeante
-DTSTART:20260304T150000
-DTEND:20260304T155300
-UID:202603041500-IvanTsaré@cine.fr
-DESCRIPTION:Ivan Tsarévitch et la Princesse changeante
-LOCATION:Salle Salle Georges Franju - La cinémathèque française - 51 Ru
- e de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44598.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Wishing Ring / La Casaque verte
-DTSTART:20260305T203000
-DTEND:20260305T221200
-UID:202603052030-TheWishin@cine.fr
-DESCRIPTION:The Wishing Ring\nLa Casaque verte
-LOCATION:Salle Salle Jean Epstein - La cinémathèque française - 51 Rue 
- de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44538.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Visites-clés : à la découverte de la naissance du cinéma
-DTSTART:20260228T140000
-DTEND:20260228T142000
-UID:202602281400-Visites-cl@cine.fr
-DESCRIPTION:Visites-clés : à la découverte de la naissance du cinéma
-LOCATION:Salle Musée - La cinémathèque française - 51 Rue de Bercy\, 7
- 5012 Paris
-URL:https://www.cinematheque.fr/seance/44796.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Petites coupures
-DTSTART:20260225T203000
-DTEND:20260225T220500
-UID:202602252030-Petitesco@cine.fr
-DESCRIPTION:Petites coupures
-LOCATION:Salle Salle Jean Epstein - La cinémathèque française - 51 Rue 
- de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44394.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Le Voleur
-DTSTART:20260309T203000
-DTEND:20260309T213000
-UID:202603092030-LeVoleur@cine.fr
-DESCRIPTION:Le Voleur
-LOCATION:Salle Salle Georges Franju - La cinémathèque française - 51 Ru
- e de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44544.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dune
-DTSTART:20260311T200000
-DTEND:20260311T221700
-UID:202603112000-Dune@cine.fr
-DESCRIPTION:Dune
-LOCATION:Salle L'Alcazar (Asnières) - La cinémathèque française - 51 R
- ue de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44855.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Le Tableau volé
-DTSTART:20260223T203000
-DTEND:20260223T220100
-UID:202602232030-LeTableau@cine.fr
-DESCRIPTION:Le Tableau volé
-LOCATION:Salle Salle Georges Franju - La cinémathèque française - 51 Ru
- e de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44392.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Le Papillon brisé
-DTSTART:20260301T173000
-DTEND:20260301T183000
-UID:202603011730-LePapillo@cine.fr
-DESCRIPTION:Le Papillon brisé
-LOCATION:Salle Salle Georges Franju - La cinémathèque française - 51 Ru
- e de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44535.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Après l'amour
-DTSTART:20260308T173000
-DTEND:20260308T190500
-UID:202603081730-Aprèsl'am@cine.fr
-DESCRIPTION:Après l'amour
-LOCATION:Salle Salle Georges Franju - La cinémathèque française - 51 Ru
- e de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44520.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Once Upon a Time... in Hollywood
-DTSTART:20260314T203000
-DTEND:20260314T230900
-UID:202603142030-OnceUpon@cine.fr
-DESCRIPTION:Once Upon a Time... in Hollywood
-LOCATION:Salle Salle Henri Langlois - La cinémathèque française - 51 Ru
- e de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44825.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Atelier Fais ta photo ! (13-15 ans)
-DTSTART:20260510T150000
-DTEND:20260510T173000
-UID:202605101500-AtelierFa@cine.fr
-DESCRIPTION:Atelier Fais ta photo ! (13-15 ans)
-LOCATION:Salle Salle libre - La cinémathèque française - 51 Rue de Berc
- y\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44736.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Atelier Créatures fantastiques (13-15 ans)
-DTSTART:20260509T150000
-DTEND:20260509T170000
-UID:202605091500-AtelierCr@cine.fr
-DESCRIPTION:Atelier Créatures fantastiques (13-15 ans)
-LOCATION:Salle Salle libre - La cinémathèque française - 51 Rue de Berc
- y\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44067.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Atelier Clip – Musique animée (10-12 ans)
-DTSTART:20260523T150000
-DTEND:20260523T170000
-UID:202605231500-AtelierCl@cine.fr
-DESCRIPTION:Atelier Clip – Musique animée (10-12 ans)
-LOCATION:Salle Salle libre - La cinémathèque française - 51 Rue de Berc
- y\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44725.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Je pense à vous
-DTSTART:20260221T190000
-DTEND:20260221T202200
-UID:202602211900-Jepenseà@cine.fr
-DESCRIPTION:Je pense à vous
-LOCATION:Salle Salle Georges Franju - La cinémathèque française - 51 Ru
- e de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44388.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Le Trésor d'Arne
-DTSTART:20260307T190000
-DTEND:20260307T210200
-UID:202603071900-LeTrésor@cine.fr
-DESCRIPTION:Le Trésor d'Arne
-LOCATION:Salle Salle Henri Langlois - La cinémathèque française - 51 Ru
- e de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44754.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Le Grand Alibi
-DTSTART:20260221T210000
-DTEND:20260221T223300
-UID:202602212100-LeGrandA@cine.fr
-DESCRIPTION:Le Grand Alibi
-LOCATION:Salle Salle Georges Franju - La cinémathèque française - 51 Ru
- e de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44389.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Visites-clés : à la découverte de la naissance du cinéma
-DTSTART:20260306T140000
-DTEND:20260306T142000
-UID:202603061400-Visites-cl@cine.fr
-DESCRIPTION:Visites-clés : à la découverte de la naissance du cinéma
-LOCATION:Salle Musée - La cinémathèque française - 51 Rue de Bercy\, 7
- 5012 Paris
-URL:https://www.cinematheque.fr/seance/44802.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wives\, dix ans après
-DTSTART:20260314T200000
-DTEND:20260314T212800
-UID:202603142000-Wives\,dix@cine.fr
-DESCRIPTION:Wives\, dix ans après
-LOCATION:Salle Cinéma Reflet Médicis - La cinémathèque française - 51
-  Rue de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44881.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Qui êtes-vous... Maurice Tourneur ? Conférence de Christine Let
- eux\, précédée d'une signature de son livre
-DTSTART:20260219T190000
-DTEND:20260219T203000
-UID:202602191900-Quiêtes-v@cine.fr
-DESCRIPTION:Qui êtes-vous... Maurice Tourneur ? Conférence de Christine
-  Leteux\, précédée d'une signature de son livre
-LOCATION:Salle Salle Georges Franju - La cinémathèque française - 51 Ru
- e de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44547.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Roberte
-DTSTART:20260315T161500
-DTEND:20260315T180100
-UID:202603151615-Roberte@cine.fr
-DESCRIPTION:Roberte
-LOCATION:Salle Grand Action - La cinémathèque française - 51 Rue de Ber
- cy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44889.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Les Innocents
-DTSTART:20260227T210000
-DTEND:20260227T224000
-UID:202602272100-LesInnoce@cine.fr
-DESCRIPTION:Les Innocents
-LOCATION:Salle Salle Jean Epstein - La cinémathèque française - 51 Rue 
- de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44398.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Atelier Un petit-déjeuner avec Wallace et Gromit (7-9 ans)
-DTSTART:20260620T150000
-DTEND:20260620T170000
-UID:202606201500-AtelierUn@cine.fr
-DESCRIPTION:Atelier Un petit-déjeuner avec Wallace et Gromit (7-9 ans)
-LOCATION:Salle Salle libre - La cinémathèque française - 51 Rue de Berc
- y\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44722.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Atelier Suspense (10-12 ans)
-DTSTART:20260321T150000
-DTEND:20260321T170000
-UID:202603211500-AtelierSu@cine.fr
-DESCRIPTION:Atelier Suspense (10-12 ans)
-LOCATION:Salle Salle libre - La cinémathèque française - 51 Rue de Berc
- y\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44727.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:J'ai même rencontré des Tziganes heureux
-DTSTART:20260313T183000
-DTEND:20260313T195200
-UID:202603131830-J'aimême@cine.fr
-DESCRIPTION:J'ai même rencontré des Tziganes heureux
-LOCATION:Salle Christine Cinéma Club - La cinémathèque française - 51 
- Rue de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44898.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fais ton cinéma comme les pionniers (9-14 ans)
-DTSTART:20260607T143000
-DTEND:20260607T153000
-UID:202606071430-Faistonc@cine.fr
-DESCRIPTION:Fais ton cinéma comme les pionniers (9-14 ans)
-LOCATION:Salle Salle libre - La cinémathèque française - 51 Rue de Berc
- y\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44737.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Un dimanche avec... Alice Guy (dès 8 ans)
-DTSTART:20260621T143000
-DTEND:20260621T170000
-UID:202606211430-Undimanch@cine.fr
-DESCRIPTION:Un dimanche avec... Alice Guy (dès 8 ans)
-LOCATION:Salle Salle libre - La cinémathèque française - 51 Rue de Berc
- y\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44717.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Meurtre en suspens
-DTSTART:20260311T170000
-DTEND:20260311T183900
-UID:202603111700-Meurtreen@cine.fr
-DESCRIPTION:Meurtre en suspens
-LOCATION:Salle Salle Georges Franju - La cinémathèque française - 51 Ru
- e de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44818.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Visites-clés : à la découverte de la naissance du cinéma
-DTSTART:20260308T140000
-DTEND:20260308T142000
-UID:202603081400-Visites-cl@cine.fr
-DESCRIPTION:Visites-clés : à la découverte de la naissance du cinéma
-LOCATION:Salle Musée - La cinémathèque française - 51 Rue de Bercy\, 7
- 5012 Paris
-URL:https://www.cinematheque.fr/seance/44804.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Visites-clés : à la découverte de la naissance du cinéma
-DTSTART:20260304T140000
-DTEND:20260304T142000
-UID:202603041400-Visites-cl@cine.fr
-DESCRIPTION:Visites-clés : à la découverte de la naissance du cinéma
-LOCATION:Salle Musée - La cinémathèque française - 51 Rue de Bercy\, 7
- 5012 Paris
-URL:https://www.cinematheque.fr/seance/44800.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Shokuzai\, partie 1 : Celles qui voulaient se souvenir
-DTSTART:20260228T143000
-DTEND:20260228T163200
-UID:202602281430-Shokuzai\,@cine.fr
-DESCRIPTION:Shokuzai\, partie 1 : Celles qui voulaient se souvenir
-LOCATION:Salle Salle Henri Langlois - La cinémathèque française - 51 Ru
- e de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44365.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:À la découverte des trucages de Georges Méliès
-DTSTART:20260304T140000
-DTEND:20260304T170000
-UID:202603041400-Àladécou@cine.fr
-DESCRIPTION:À la découverte des trucages de Georges Méliès
-LOCATION:Salle La mezzanine - La cinémathèque française - 51 Rue de Ber
- cy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44813.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Killer / Dialogue avec Murielle Joudet
-DTSTART:20260225T190000
-DTEND:20260225T215100
-UID:202602251900-TheKiller@cine.fr
-DESCRIPTION:The Killer\nDialogue avec Murielle Joudet
-LOCATION:Salle Salle Henri Langlois - La cinémathèque française - 51 Ru
- e de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44357.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:L'Évaporation de l'homme
-DTSTART:20260314T170000
-DTEND:20260314T191000
-UID:202603141700-L'Évaporat@cine.fr
-DESCRIPTION:L'Évaporation de l'homme
-LOCATION:Salle Salle Lotte Eisner - La cinémathèque française - 51 Rue 
- de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44850.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Escape-Game « Le Secret de Barbenfouillis »
-DTSTART:20260222T100000
-DTEND:20260222T110000
-UID:202602221000-Escape-Gam@cine.fr
-DESCRIPTION:Escape-Game « Le Secret de Barbenfouillis »
-LOCATION:Salle Musée - La cinémathèque française - 51 Rue de Bercy\, 7
- 5012 Paris
-URL:https://www.cinematheque.fr/seance/44805.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A Girl's Folly
-DTSTART:20260227T183000
-DTEND:20260227T193500
-UID:202602271830-AGirl'sF@cine.fr
-DESCRIPTION:A Girl's Folly
-LOCATION:Salle Salle Georges Franju - La cinémathèque française - 51 Ru
- e de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44531.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Vol au-dessus d'un nid de coucou
-DTSTART:20260312T213000
-DTEND:20260312T234400
-UID:202603122130-Volau-des@cine.fr
-DESCRIPTION:Vol au-dessus d'un nid de coucou
-LOCATION:Salle Salle Henri Langlois - La cinémathèque française - 51 Ru
- e de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44914.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Atelier Mettre le monde en boîte (3-6 ans)
-DTSTART:20260418T153000
-DTEND:20260418T170000
-UID:202604181530-AtelierMe@cine.fr
-DESCRIPTION:Atelier Mettre le monde en boîte (3-6 ans)
-LOCATION:Salle Salle libre - La cinémathèque française - 51 Rue de Berc
- y\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44709.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Le Spectre du professeur Hichcock
-DTSTART:20260315T203000
-DTEND:20260315T220500
-UID:202603152030-LeSpectre@cine.fr
-DESCRIPTION:Le Spectre du professeur Hichcock
-LOCATION:Salle Salle Lotte Eisner - La cinémathèque française - 51 Rue 
- de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44845.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Les Aventures du prince Ahmed
-DTSTART:20260301T150000
-DTEND:20260301T160500
-UID:202603011500-LesAventu@cine.fr
-DESCRIPTION:Les Aventures du prince Ahmed
-LOCATION:Salle Salle Georges Franju - La cinémathèque française - 51 Ru
- e de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44597.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Un thé au Sahara / Dialogue avec Debra Winger. Animé par Pauline
-  de Raymond et Bernard Benoliel 
-DTSTART:20260315T143000
-DTEND:20260315T174800
-UID:202603151430-Unthéau@cine.fr
-DESCRIPTION:Un thé au Sahara\nDialogue avec Debra Winger. Animé par Paul
- ine de Raymond et Bernard Benoliel
-LOCATION:Salle Salle Henri Langlois - La cinémathèque française - 51 Ru
- e de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44833.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Les Envoûtés
-DTSTART:20260222T200000
-DTEND:20260222T214100
-UID:202602222000-LesEnvoût@cine.fr
-DESCRIPTION:Les Envoûtés
-LOCATION:Salle Salle Georges Franju - La cinémathèque française - 51 Ru
- e de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44391.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Chacun sa chance
-DTSTART:20260312T203000
-DTEND:20260312T220700
-UID:202603122030-Chacunsa@cine.fr
-DESCRIPTION:Chacun sa chance
-LOCATION:Salle Salle Jean Epstein - La cinémathèque française - 51 Rue 
- de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44830.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Performance
-DTSTART:20260313T183000
-DTEND:20260313T201500
-UID:202603131830-Performanc@cine.fr
-DESCRIPTION:Performance
-LOCATION:Salle Salle Georges Franju - La cinémathèque française - 51 Ru
- e de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44837.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fille d'Écosse
-DTSTART:20260228T143000
-DTEND:20260228T155400
-UID:202602281430-Filled'Éc@cine.fr
-DESCRIPTION:Fille d'Écosse
-LOCATION:Salle Salle Georges Franju - La cinémathèque française - 51 Ru
- e de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44533.html
+URL:https://www.cinematheque.fr/seance/44906.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Je ne suis pas morte
@@ -2056,545 +25,24 @@ LOCATION:Salle Salle Jean Epstein - La cinémathèque française - 51 Rue
 URL:https://www.cinematheque.fr/seance/44654.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:No Country for Old Men
-DTSTART:20260312T194500
-DTEND:20260312T214700
-UID:202603121945-NoCountry@cine.fr
-DESCRIPTION:No Country for Old Men
-LOCATION:Salle La Filmothèque du Quartier latin - La cinémathèque fran
- çaise - 51 Rue de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44826.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Cinéma et écologie — Réinventer la critique\, interroger les 
- pratiques (1ère partie). Journée d'étude — Matinée (9h30-13h) 
-DTSTART:20260311T093000
-DTEND:20260311T133000
-UID:202603110930-Cinémaet@cine.fr
-DESCRIPTION:Cinéma et écologie — Réinventer la critique\, interroger 
- les pratiques (1ère partie). Journée d'étude — Matinée (9h30-13h)
-LOCATION:Salle Salle Henri Langlois - La cinémathèque française - 51 Ru
- e de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44900.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pas très catholique
-DTSTART:20260311T193000
-DTEND:20260311T210700
-UID:202603111930-Pastrèsc@cine.fr
-DESCRIPTION:Pas très catholique
-LOCATION:Salle Salle Jean Epstein - La cinémathèque française - 51 Rue 
- de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44843.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Cinéma et écologie — Réinventer la critique\, interroger les 
- pratiques (2ème partie). Journée d'étude — Après-midi (14h30-17h30) 
-  / Détour
-DTSTART:20260311T143000
-DTEND:20260311T185700
-UID:202603111430-Cinémaet@cine.fr
-DESCRIPTION:Cinéma et écologie — Réinventer la critique\, interroger 
- les pratiques (2ème partie). Journée d'étude — Après-midi (14h30-17h
- 30) \nDétour
-LOCATION:Salle Salle Henri Langlois - La cinémathèque française - 51 Ru
- e de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44901.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Conte de printemps / Dialogue avec Pascal Bonitzer
-DTSTART:20260226T190000
-DTEND:20260226T215000
-UID:202602261900-Contedep@cine.fr
-DESCRIPTION:Conte de printemps\nDialogue avec Pascal Bonitzer
-LOCATION:Salle Salle Georges Franju - La cinémathèque française - 51 Ru
- e de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44661.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Atelier Un petit-déjeuner avec Wallace et Gromit (7-9 ans)
-DTSTART:20260530T150000
-DTEND:20260530T170000
-UID:202605301500-AtelierUn@cine.fr
-DESCRIPTION:Atelier Un petit-déjeuner avec Wallace et Gromit (7-9 ans)
-LOCATION:Salle Salle libre - La cinémathèque française - 51 Rue de Berc
- y\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44721.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La Prière aux étoiles
-DTSTART:20260315T190000
-DTEND:20260315T202500
-UID:202603151900-LaPrière@cine.fr
-DESCRIPTION:La Prière aux étoiles
-LOCATION:Salle Salle Georges Franju - La cinémathèque française - 51 Ru
- e de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44840.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Stage de 3 jours : Ciné-trucs (9-14 ans)
-DTSTART:20260708T100000
-DTEND:20260708T100000
-UID:202607081000-Stagede3@cine.fr
-DESCRIPTION:Stage de 3 jours : Ciné-trucs (9-14 ans)
-LOCATION:Salle Salle libre - La cinémathèque française - 51 Rue de Berc
- y\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44743.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La Pègre
-DTSTART:20260219T203000
-DTEND:20260219T221200
-UID:202602192030-LaPègre@cine.fr
-DESCRIPTION:La Pègre
-LOCATION:Salle Salle Henri Langlois - La cinémathèque française - 51 Ru
- e de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44383.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lidoire / Obsession
-DTSTART:20260309T180000
-DTEND:20260309T185500
-UID:202603091800-Lidoire/@cine.fr
-DESCRIPTION:Lidoire\nObsession
-LOCATION:Salle Salle Georges Franju - La cinémathèque française - 51 Ru
- e de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44550.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Escape-Game « Le Secret de Barbenfouillis »
-DTSTART:20260308T100000
-DTEND:20260308T110000
-UID:202603081000-Escape-Gam@cine.fr
-DESCRIPTION:Escape-Game « Le Secret de Barbenfouillis »
-LOCATION:Salle Musée - La cinémathèque française - 51 Rue de Bercy\, 7
- 5012 Paris
-URL:https://www.cinematheque.fr/seance/44807.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Avec le sourire
-DTSTART:20260218T200000
-DTEND:20260218T213800
-UID:202602182000-Avecleso@cine.fr
-DESCRIPTION:Avec le sourire
-LOCATION:Salle Salle Henri Langlois - La cinémathèque française - 51 Ru
- e de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44511.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Un dimanche avec... Alice Guy (dès 8 ans)
-DTSTART:20260524T143000
-DTEND:20260524T170000
-UID:202605241430-Undimanch@cine.fr
-DESCRIPTION:Un dimanche avec... Alice Guy (dès 8 ans)
-LOCATION:Salle Salle libre - La cinémathèque française - 51 Rue de Berc
- y\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44716.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:L'École dans le viseur
-DTSTART:20260315T180000
-DTEND:20260315T193000
-UID:202603151800-L'Écoleda@cine.fr
-DESCRIPTION:L'École dans le viseur
-LOCATION:Salle Christine Cinéma Club - La cinémathèque française - 51 
- Rue de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44877.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Les Cinéphiles 2 : Éric a disparu
-DTSTART:20260314T183000
-DTEND:20260314T192600
-UID:202603141830-LesCinéph@cine.fr
-DESCRIPTION:Les Cinéphiles 2 : Éric a disparu
-LOCATION:Salle Salle Jean Epstein - La cinémathèque française - 51 Rue 
- de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44841.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Aïe / Dialogue avec Pascal Bonitzer
-DTSTART:20260305T190000
-DTEND:20260305T214300
-UID:202603051900-Aïe/Dial@cine.fr
-DESCRIPTION:Aïe\nDialogue avec Pascal Bonitzer
-LOCATION:Salle Salle Georges Franju - La cinémathèque française - 51 Ru
- e de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44659.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:¡Que viva México! / Dialogue avec Naum Kleiman. Animé par Berna
- rd Eisenschitz et Ada Ackerman
-DTSTART:20260314T143000
-DTEND:20260314T165500
-UID:202603141430-¡Queviva@cine.fr
-DESCRIPTION:¡Que viva México!\nDialogue avec Naum Kleiman. Animé par Be
- rnard Eisenschitz et Ada Ackerman
-LOCATION:Salle Salle Georges Franju - La cinémathèque française - 51 Ru
- e de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44906.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Les Contes de la nuit
-DTSTART:20260218T150000
-DTEND:20260218T162400
-UID:202602181500-LesContes@cine.fr
-DESCRIPTION:Les Contes de la nuit
-LOCATION:Salle Salle Georges Franju - La cinémathèque française - 51 Ru
- e de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44594.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Charade
-DTSTART:20260312T143000
-DTEND:20260312T162300
-UID:202603121430-Charade@cine.fr
-DESCRIPTION:Charade
-LOCATION:Salle Salle Henri Langlois - La cinémathèque française - 51 Ru
- e de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44835.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:L'Arche
-DTSTART:20260312T171500
-DTEND:20260312T184600
-UID:202603121715-L'Arche@cine.fr
-DESCRIPTION:L'Arche
-LOCATION:Salle Salle Jean Epstein - La cinémathèque française - 51 Rue 
- de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44861.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Une victoire
-DTSTART:20260301T204500
-DTEND:20260301T214700
-UID:202603012045-Unevictoi@cine.fr
-DESCRIPTION:Une victoire
-LOCATION:Salle Salle Georges Franju - La cinémathèque française - 51 Ru
- e de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44536.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Chaser
-DTSTART:20260221T213000
-DTEND:20260221T233300
-UID:202602212130-TheChaser@cine.fr
-DESCRIPTION:The Chaser
-LOCATION:Salle Salle Henri Langlois - La cinémathèque française - 51 Ru
- e de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44367.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La Raison du plus fou
-DTSTART:20260311T140000
-DTEND:20260311T153000
-UID:202603111400-LaRaison@cine.fr
-DESCRIPTION:La Raison du plus fou
+SUMMARY:L'Évaporation de l'homme
+DTSTART:20260314T170000
+DTEND:20260314T191000
+UID:202603141700-L'Évaporat@cine.fr
+DESCRIPTION:L'Évaporation de l'homme
 LOCATION:Salle Salle Lotte Eisner - La cinémathèque française - 51 Rue 
  de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44851.html
+URL:https://www.cinematheque.fr/seance/44850.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:La Belle au bois dormant / Blanche-Neige et Rose-Rouge / Hansel et
-  Gretel / Poucette
-DTSTART:20260308T150000
-DTEND:20260308T154100
-UID:202603081500-LaBellea@cine.fr
-DESCRIPTION:La Belle au bois dormant\nBlanche-Neige et Rose-Rouge\nHansel 
- et Gretel\nPoucette
+SUMMARY:La Règle du jeu
+DTSTART:20260326T163000
+DTEND:20260326T181600
+UID:202603261630-LaRègled@cine.fr
+DESCRIPTION:La Règle du jeu
 LOCATION:Salle Salle Georges Franju - La cinémathèque française - 51 Ru
  e de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44599.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Vol au-dessus d'un nid de coucou
-DTSTART:20260314T160000
-DTEND:20260314T181400
-UID:202603141600-Volau-des@cine.fr
-DESCRIPTION:Vol au-dessus d'un nid de coucou
-LOCATION:Salle La Filmothèque du Quartier latin - La cinémathèque fran
- çaise - 51 Rue de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44858.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:À la découverte des trucages de Georges Méliès
-DTSTART:20260227T140000
-DTEND:20260227T170000
-UID:202602271400-Àladécou@cine.fr
-DESCRIPTION:À la découverte des trucages de Georges Méliès
-LOCATION:Salle Musée - La cinémathèque française - 51 Rue de Bercy\, 7
- 5012 Paris
-URL:https://www.cinematheque.fr/seance/44811.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Impasse des Deux-Anges
-DTSTART:20260308T193000
-DTEND:20260308T210500
-UID:202603081930-Impassede@cine.fr
-DESCRIPTION:Impasse des Deux-Anges
-LOCATION:Salle Salle Georges Franju - La cinémathèque française - 51 Ru
- e de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44521.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Visites-clés : à la découverte de la naissance du cinéma
-DTSTART:20260226T140000
-DTEND:20260226T142000
-UID:202602261400-Visites-cl@cine.fr
-DESCRIPTION:Visites-clés : à la découverte de la naissance du cinéma
-LOCATION:Salle Musée - La cinémathèque française - 51 Rue de Bercy\, 7
- 5012 Paris
-URL:https://www.cinematheque.fr/seance/44794.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dune
-DTSTART:20260314T203000
-DTEND:20260314T224700
-UID:202603142030-Dune@cine.fr
-DESCRIPTION:Dune
-LOCATION:Salle Le Vincennes - La cinémathèque française - 51 Rue de Ber
- cy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44868.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Une pluie sans fin
-DTSTART:20260226T180000
-DTEND:20260226T200000
-UID:202602261800-Unepluie@cine.fr
-DESCRIPTION:Une pluie sans fin
-LOCATION:Salle Salle Henri Langlois - La cinémathèque française - 51 Ru
- e de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44368.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Accusée\, levez-vous !
-DTSTART:20260220T171500
-DTEND:20260220T185700
-UID:202602201715-Accusée\,l@cine.fr
-DESCRIPTION:Accusée\, levez-vous !
-LOCATION:Salle Salle Jean Epstein - La cinémathèque française - 51 Rue 
- de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44523.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La Fièvre du samedi soir
-DTSTART:20260315T194500
-DTEND:20260315T214300
-UID:202603151945-LaFièvre@cine.fr
-DESCRIPTION:La Fièvre du samedi soir
-LOCATION:Salle La Filmothèque du Quartier latin - La cinémathèque fran
- çaise - 51 Rue de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44821.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:À la découverte des trucages de Georges Méliès
-DTSTART:20260306T140000
-DTEND:20260306T170000
-UID:202603061400-Àladécou@cine.fr
-DESCRIPTION:À la découverte des trucages de Georges Méliès
-LOCATION:Salle La mezzanine - La cinémathèque française - 51 Rue de Ber
- cy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44815.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fantaisie
-DTSTART:20260309T190000
-DTEND:20260309T201900
-UID:202603091900-Fantaisie@cine.fr
-DESCRIPTION:Fantaisie
-LOCATION:Salle Salle Jean Epstein - La cinémathèque française - 51 Rue 
- de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44615.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:À la découverte des trucages de Georges Méliès
-DTSTART:20260225T140000
-DTEND:20260225T170000
-UID:202602251400-Àladécou@cine.fr
-DESCRIPTION:À la découverte des trucages de Georges Méliès
-LOCATION:Salle La mezzanine - La cinémathèque française - 51 Rue de Ber
- cy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44809.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Le Dernier des Mohicans
-DTSTART:20260222T143000
-DTEND:20260222T160300
-UID:202602221430-LeDernier@cine.fr
-DESCRIPTION:Le Dernier des Mohicans
-LOCATION:Salle Salle Henri Langlois - La cinémathèque française - 51 Ru
- e de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44513.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Volpone
-DTSTART:20260306T213000
-DTEND:20260306T230400
-UID:202603062130-Volpone@cine.fr
-DESCRIPTION:Volpone
-LOCATION:Salle Salle Georges Franju - La cinémathèque française - 51 Ru
- e de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44517.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Atelier Traces de lumiere (3-6 ans)
-DTSTART:20260704T153000
-DTEND:20260704T170000
-UID:202607041530-AtelierTr@cine.fr
-DESCRIPTION:Atelier Traces de lumiere (3-6 ans)
-LOCATION:Salle Salle libre - La cinémathèque française - 51 Rue de Berc
- y\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44714.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:À la découverte des trucages de Georges Méliès
-DTSTART:20260305T140000
-DTEND:20260305T170000
-UID:202603051400-Àladécou@cine.fr
-DESCRIPTION:À la découverte des trucages de Georges Méliès
-LOCATION:Salle La mezzanine - La cinémathèque française - 51 Rue de Ber
- cy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44814.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Programme 1
-DTSTART:20260314T140000
-DTEND:20260314T153700
-UID:202603141400-Programme@cine.fr
-DESCRIPTION:Broadway by Light\nSymphonie mécanique\nHenri Matisse\nParis 
- Express ou Souvenir de Paris
-LOCATION:Salle Salle Jean Epstein - La cinémathèque française - 51 Rue 
- de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44892.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Folies de femmes
-DTSTART:20260304T200000
-DTEND:20260304T215100
-UID:202603042000-Foliesde@cine.fr
-DESCRIPTION:Folies de femmes
-LOCATION:Salle Salle Henri Langlois - La cinémathèque française - 51 Ru
- e de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44750.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Les Cinéphiles : Le Retour de Jean
-DTSTART:20260314T160000
-DTEND:20260314T171300
-UID:202603141600-LesCinéph@cine.fr
-DESCRIPTION:Les Cinéphiles : Le Retour de Jean
-LOCATION:Salle Salle Jean Epstein - La cinémathèque française - 51 Rue 
- de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44839.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Princes et Princesses
-DTSTART:20260222T150000
-DTEND:20260222T161000
-UID:202602221500-Princeset@cine.fr
-DESCRIPTION:Princes et Princesses
-LOCATION:Salle Salle Georges Franju - La cinémathèque française - 51 Ru
- e de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44595.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:City on Fire
-DTSTART:20260227T180000
-DTEND:20260227T194500
-UID:202602271800-CityonFi@cine.fr
-DESCRIPTION:City on Fire
-LOCATION:Salle Salle Henri Langlois - La cinémathèque française - 51 Ru
- e de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44363.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pierre ou les ambiguïtés
-DTSTART:20260312T171500
-DTEND:20260312T201500
-UID:202603121715-Pierreou@cine.fr
-DESCRIPTION:Pierre ou les ambiguïtés
-LOCATION:Salle Salle Henri Langlois - La cinémathèque française - 51 Ru
- e de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44866.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dimanche / Brussels by Night
-DTSTART:20260313T170000
-DTEND:20260313T184700
-UID:202603131700-Dimanche/@cine.fr
-DESCRIPTION:Dimanche\nBrussels by Night
-LOCATION:Salle Centre Wallonie-Bruxelles - La cinémathèque française - 
- 51 Rue de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44909.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Stage pratique (3 jours) : le montage
-DTSTART:20260225T100000
-DTEND:20260225T100000
-UID:202602251000-Stageprat@cine.fr
-DESCRIPTION:Stage pratique (3 jours) : le montage
-LOCATION:Salle Salle libre - La cinémathèque française - 51 Rue de Berc
- y\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44102.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Visites-clés : à la découverte de la naissance du cinéma
-DTSTART:20260223T140000
-DTEND:20260223T142000
-UID:202602231400-Visites-cl@cine.fr
-DESCRIPTION:Visites-clés : à la découverte de la naissance du cinéma
-LOCATION:Salle Musée - La cinémathèque française - 51 Rue de Bercy\, 7
- 5012 Paris
-URL:https://www.cinematheque.fr/seance/44791.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Le Maître et Marguerite
-DTSTART:20260313T153000
-DTEND:20260313T171000
-UID:202603131530-LeMaître@cine.fr
-DESCRIPTION:Le Maître et Marguerite
-LOCATION:Salle Salle Lotte Eisner - La cinémathèque française - 51 Rue 
- de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44897.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:L'Éternelle Tentatrice
-DTSTART:20260228T171500
-DTEND:20260228T182500
-UID:202602281715-L'Éternell@cine.fr
-DESCRIPTION:L'Éternelle Tentatrice
-LOCATION:Salle Salle Georges Franju - La cinémathèque française - 51 Ru
- e de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44545.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Victor comme tout le monde
-DTSTART:20260309T200000
-DTEND:20260309T212800
-UID:202603092000-Victorcom@cine.fr
-DESCRIPTION:Victor comme tout le monde
-LOCATION:Salle Salle Henri Langlois - La cinémathèque française - 51 Ru
- e de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44402.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Katia
-DTSTART:20260304T203000
-DTEND:20260304T215900
-UID:202603042030-Katia@cine.fr
-DESCRIPTION:Katia
-LOCATION:Salle Salle Georges Franju - La cinémathèque française - 51 Ru
- e de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44515.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Vienne avant la nuit
-DTSTART:20260313T133000
-DTEND:20260313T144400
-UID:202603131330-Vienneava@cine.fr
-DESCRIPTION:Vienne avant la nuit
-LOCATION:Salle La Filmothèque du Quartier latin - La cinémathèque fran
- çaise - 51 Rue de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44884.html
+URL:https://www.cinematheque.fr/seance/45222.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Alenka
@@ -2607,14 +55,34 @@ LOCATION:Salle Salle Georges Franju - La cinémathèque française - 51 Ru
 URL:https://www.cinematheque.fr/seance/44902.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Mam'zelle Bonaparte
-DTSTART:20260306T193000
-DTEND:20260306T211000
-UID:202603061930-Mam'zelle@cine.fr
-DESCRIPTION:Mam'zelle Bonaparte
-LOCATION:Salle Salle Georges Franju - La cinémathèque française - 51 Ru
- e de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44516.html
+SUMMARY:Escape-Game « Le Secret de Barbenfouillis »
+DTSTART:20260301T100000
+DTEND:20260301T110000
+UID:202603011000-Escape-Gam@cine.fr
+DESCRIPTION:Escape-Game « Le Secret de Barbenfouillis »
+LOCATION:Salle Musée - La cinémathèque française - 51 Rue de Bercy\, 7
+ 5012 Paris
+URL:https://www.cinematheque.fr/seance/44806.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Atelier Fais ta photo ! (13-15 ans)
+DTSTART:20260510T150000
+DTEND:20260510T173000
+UID:202605101500-AtelierFa@cine.fr
+DESCRIPTION:Atelier Fais ta photo ! (13-15 ans)
+LOCATION:Salle Salle libre - La cinémathèque française - 51 Rue de Berc
+ y\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44736.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Maison de danses
+DTSTART:20260220T200000
+DTEND:20260220T212500
+UID:202602202000-Maisonde@cine.fr
+DESCRIPTION:Maison de danses
+LOCATION:Salle Salle Jean Epstein - La cinémathèque française - 51 Rue 
+ de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44704.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mephisto
@@ -2627,36 +95,14 @@ LOCATION:Salle Salle Lotte Eisner - La cinémathèque française - 51 Rue
 URL:https://www.cinematheque.fr/seance/44846.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Journée Ciné-trucs (10-12 ans). Stage des vacances d'hiver (1 jo
- ur) 
-DTSTART:20260305T100000
-DTEND:20260305T170000
-UID:202603051000-JournéeCi@cine.fr
-DESCRIPTION:Journée Ciné-trucs (10-12 ans). Stage des vacances d'hiver (
- 1 jour)
-LOCATION:Salle Salle libre - La cinémathèque française - 51 Rue de Berc
- y\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44085.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pluie de juillet
-DTSTART:20260315T171500
-DTEND:20260315T191000
-UID:202603151715-Pluiedej@cine.fr
-DESCRIPTION:Pluie de juillet
-LOCATION:Salle La Filmothèque du Quartier latin - La cinémathèque fran
- çaise - 51 Rue de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44905.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dune
-DTSTART:20260314T213000
-DTEND:20260314T234700
-UID:202603142130-Dune@cine.fr
-DESCRIPTION:Dune
-LOCATION:Salle La Filmothèque du Quartier latin - La cinémathèque fran
- çaise - 51 Rue de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44865.html
+SUMMARY:Le Spectre du professeur Hichcock
+DTSTART:20260315T203000
+DTEND:20260315T220500
+UID:202603152030-LeSpectre@cine.fr
+DESCRIPTION:Le Spectre du professeur Hichcock
+LOCATION:Salle Salle Lotte Eisner - La cinémathèque française - 51 Rue 
+ de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44845.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Jules et Jim
@@ -2679,6 +125,1428 @@ LOCATION:Salle Salle Georges Franju - La cinémathèque française - 51 Ru
 URL:https://www.cinematheque.fr/seance/44915.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Atelier Pixi Quiz (10-12 ans)
+DTSTART:20260307T150000
+DTEND:20260307T170000
+UID:202603071500-AtelierPi@cine.fr
+DESCRIPTION:Atelier Pixi Quiz (10-12 ans)
+LOCATION:Salle Salle libre - La cinémathèque française - 51 Rue de Berc
+ y\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44064.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Trilby / Maurice Tourneur\, tisseur de rêves
+DTSTART:20260302T200000
+DTEND:20260302T222300
+UID:202603022000-Trilby/M@cine.fr
+DESCRIPTION:Trilby\nMaurice Tourneur\, tisseur de rêves
+LOCATION:Salle Salle Georges Franju - La cinémathèque française - 51 Ru
+ e de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44548.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Une pauvre petite fille riche
+DTSTART:20260227T170000
+DTEND:20260227T180500
+UID:202602271700-Unepauvre@cine.fr
+DESCRIPTION:Une pauvre petite fille riche
+LOCATION:Salle Salle Georges Franju - La cinémathèque française - 51 Ru
+ e de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44532.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Le Syndicat du crime
+DTSTART:20260301T183000
+DTEND:20260301T200500
+UID:202603011830-LeSyndica@cine.fr
+DESCRIPTION:Le Syndicat du crime
+LOCATION:Salle Salle Henri Langlois - La cinémathèque française - 51 Ru
+ e de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44369.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dune
+DTSTART:20260314T203000
+DTEND:20260314T224700
+UID:202603142030-Dune@cine.fr
+DESCRIPTION:Dune
+LOCATION:Salle Le Vincennes - La cinémathèque française - 51 Rue de Ber
+ cy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44868.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Atelier Suspense (10-12 ans)
+DTSTART:20260620T150000
+DTEND:20260620T170000
+UID:202606201500-AtelierSu@cine.fr
+DESCRIPTION:Atelier Suspense (10-12 ans)
+LOCATION:Salle Salle libre - La cinémathèque française - 51 Rue de Berc
+ y\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44728.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fille d'Écosse
+DTSTART:20260228T143000
+DTEND:20260228T155400
+UID:202602281430-Filled'Éc@cine.fr
+DESCRIPTION:Fille d'Écosse
+LOCATION:Salle Salle Georges Franju - La cinémathèque française - 51 Ru
+ e de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44533.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Escape-Game « Le Secret de Barbenfouillis »
+DTSTART:20260222T100000
+DTEND:20260222T110000
+UID:202602221000-Escape-Gam@cine.fr
+DESCRIPTION:Escape-Game « Le Secret de Barbenfouillis »
+LOCATION:Salle Musée - La cinémathèque française - 51 Rue de Bercy\, 7
+ 5012 Paris
+URL:https://www.cinematheque.fr/seance/44805.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dillinger est mort / Dialogue avec Murielle Joudet. Avec la partic
+ ipation de Jean-François Rauger
+DTSTART:20260327T190000
+DTEND:20260327T213500
+UID:202603271900-Dillinger@cine.fr
+DESCRIPTION:Dillinger est mort\nDialogue avec Murielle Joudet. Avec la par
+ ticipation de Jean-François Rauger
+LOCATION:Salle Salle Henri Langlois - La cinémathèque française - 51 Ru
+ e de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/45029.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Samson
+DTSTART:20260222T173000
+DTEND:20260222T185800
+UID:202602221730-Samson@cine.fr
+DESCRIPTION:Samson
+LOCATION:Salle Salle Jean Epstein - La cinémathèque française - 51 Rue 
+ de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44528.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Atelier Le voyage du hérisson (7-9 ans)
+DTSTART:20260613T150000
+DTEND:20260613T170000
+UID:202606131500-AtelierLe@cine.fr
+DESCRIPTION:Atelier Le voyage du hérisson (7-9 ans)
+LOCATION:Salle Salle libre - La cinémathèque française - 51 Rue de Berc
+ y\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44720.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Une belle fille comme moi
+DTSTART:20260413T160000
+DTEND:20260413T173800
+UID:202604131600-Unebelle@cine.fr
+DESCRIPTION:Une belle fille comme moi
+LOCATION:Salle Salle Georges Franju - La cinémathèque française - 51 Ru
+ e de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/45216.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Les Guerriers de l'Apocalypse
+DTSTART:20260314T140000
+DTEND:20260314T161900
+UID:202603141400-LesGuerri@cine.fr
+DESCRIPTION:Les Guerriers de l'Apocalypse
+LOCATION:Salle Christine Cinéma Club - La cinémathèque française - 51 
+ Rue de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44876.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pluie de juillet
+DTSTART:20260315T171500
+DTEND:20260315T191000
+UID:202603151715-Pluiedej@cine.fr
+DESCRIPTION:Pluie de juillet
+LOCATION:Salle La Filmothèque du Quartier latin - La cinémathèque fran
+ çaise - 51 Rue de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44905.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Atelier Clip – Musique animée (10-12 ans)
+DTSTART:20260606T150000
+DTEND:20260606T170000
+UID:202606061500-AtelierCl@cine.fr
+DESCRIPTION:Atelier Clip – Musique animée (10-12 ans)
+LOCATION:Salle Salle libre - La cinémathèque française - 51 Rue de Berc
+ y\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44726.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Atelier C'est quoi le montage ? (13-15 ans)
+DTSTART:20260411T150000
+DTEND:20260411T173000
+UID:202604111500-AtelierC'@cine.fr
+DESCRIPTION:Atelier C'est quoi le montage ? (13-15 ans)
+LOCATION:Salle Salle libre - La cinémathèque française - 51 Rue de Berc
+ y\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44733.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Les Cinéphiles 2 : Éric a disparu
+DTSTART:20260314T183000
+DTEND:20260314T192600
+UID:202603141830-LesCinéph@cine.fr
+DESCRIPTION:Les Cinéphiles 2 : Éric a disparu
+LOCATION:Salle Salle Jean Epstein - La cinémathèque française - 51 Rue 
+ de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44841.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:L'Angoisse du gardien de but au moment du penalty
+DTSTART:20260417T160000
+DTEND:20260417T174000
+UID:202604171600-L'Angoisse@cine.fr
+DESCRIPTION:L'Angoisse du gardien de but au moment du penalty
+LOCATION:Salle Salle Georges Franju - La cinémathèque française - 51 Ru
+ e de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/45220.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Le Chantier des gosses
+DTSTART:20260312T143000
+DTEND:20260312T154600
+UID:202603121430-LeChantie@cine.fr
+DESCRIPTION:Le Chantier des gosses
+LOCATION:Salle Salle Jean Epstein - La cinémathèque française - 51 Rue 
+ de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44907.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Généalogies d'un crime
+DTSTART:20260228T173000
+DTEND:20260228T192400
+UID:202602281730-Généalogie@cine.fr
+DESCRIPTION:Généalogies d'un crime
+LOCATION:Salle Salle Jean Epstein - La cinémathèque française - 51 Rue 
+ de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44400.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La Légende des huit samouraïs
+DTSTART:20260315T153000
+DTEND:20260315T174300
+UID:202603151530-LaLégende@cine.fr
+DESCRIPTION:La Légende des huit samouraïs
+LOCATION:Salle Christine Cinéma Club - La cinémathèque française - 51 
+ Rue de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44878.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Le Trésor d'Arne
+DTSTART:20260307T190000
+DTEND:20260307T210200
+UID:202603071900-LeTrésor@cine.fr
+DESCRIPTION:Le Trésor d'Arne
+LOCATION:Salle Salle Henri Langlois - La cinémathèque française - 51 Ru
+ e de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44754.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Les pratiques d'archivage des films kurdes\, de la collecte à la 
+ collection. Conférence de Pauline Tucoulet
+DTSTART:20260311T180000
+DTEND:20260311T193000
+UID:202603111800-Lespratiq@cine.fr
+DESCRIPTION:Les pratiques d'archivage des films kurdes\, de la collecte à
+  la collection. Conférence de Pauline Tucoulet
+LOCATION:Salle Salle Musidora (Bibliothèque) - La cinémathèque françai
+ se - 51 Rue de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44912.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Visites-clés : à la découverte de la naissance du cinéma
+DTSTART:20260228T140000
+DTEND:20260228T142000
+UID:202602281400-Visites-cl@cine.fr
+DESCRIPTION:Visites-clés : à la découverte de la naissance du cinéma
+LOCATION:Salle Musée - La cinémathèque française - 51 Rue de Bercy\, 7
+ 5012 Paris
+URL:https://www.cinematheque.fr/seance/44796.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Figures de cire / Prunella / La Bergère d'Ivry / Le Friquet
+DTSTART:20260305T183000
+DTEND:20260305T195700
+UID:202603051830-Figuresde@cine.fr
+DESCRIPTION:Figures de cire\nPrunella\nLa Bergère d'Ivry\nLe Friquet
+LOCATION:Salle Salle Jean Epstein - La cinémathèque française - 51 Rue 
+ de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44549.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:City of Darkness
+DTSTART:20260227T204500
+DTEND:20260227T225100
+UID:202602272045-CityofDa@cine.fr
+DESCRIPTION:City of Darkness
+LOCATION:Salle Salle Henri Langlois - La cinémathèque française - 51 Ru
+ e de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44380.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La Nuit des juges
+DTSTART:20260306T211500
+DTEND:20260306T230400
+UID:202603062115-LaNuitde@cine.fr
+DESCRIPTION:La Nuit des juges
+LOCATION:Salle Salle Jean Epstein - La cinémathèque française - 51 Rue 
+ de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44623.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Visites-clés : à la découverte de la naissance du cinéma
+DTSTART:20260306T140000
+DTEND:20260306T142000
+UID:202603061400-Visites-cl@cine.fr
+DESCRIPTION:Visites-clés : à la découverte de la naissance du cinéma
+LOCATION:Salle Musée - La cinémathèque française - 51 Rue de Bercy\, 7
+ 5012 Paris
+URL:https://www.cinematheque.fr/seance/44802.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:No Country for Old Men
+DTSTART:20260312T194500
+DTEND:20260312T214700
+UID:202603121945-NoCountry@cine.fr
+DESCRIPTION:No Country for Old Men
+LOCATION:Salle La Filmothèque du Quartier latin - La cinémathèque fran
+ çaise - 51 Rue de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44826.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Les Cannibales
+DTSTART:20260314T193000
+DTEND:20260314T205400
+UID:202603141930-LesCannib@cine.fr
+DESCRIPTION:Les Cannibales
+LOCATION:Salle Ecoles Cinéma Club - La cinémathèque française - 51 Rue
+  de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44854.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Trois
+DTSTART:20260311T180000
+DTEND:20260311T192000
+UID:202603111800-Trois@cine.fr
+DESCRIPTION:Trois
+LOCATION:Salle Salle Lotte Eisner - La cinémathèque française - 51 Rue 
+ de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44894.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Visites-clés : à la découverte de la naissance du cinéma
+DTSTART:20260301T140000
+DTEND:20260301T142000
+UID:202603011400-Visites-cl@cine.fr
+DESCRIPTION:Visites-clés : à la découverte de la naissance du cinéma
+LOCATION:Salle Musée - La cinémathèque française - 51 Rue de Bercy\, 7
+ 5012 Paris
+URL:https://www.cinematheque.fr/seance/44797.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Atelier Clip – Musique animée (10-12 ans)
+DTSTART:20260523T150000
+DTEND:20260523T170000
+UID:202605231500-AtelierCl@cine.fr
+DESCRIPTION:Atelier Clip – Musique animée (10-12 ans)
+LOCATION:Salle Salle libre - La cinémathèque française - 51 Rue de Berc
+ y\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44725.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Œdipe roi
+DTSTART:20260416T160000
+DTEND:20260416T175000
+UID:202604161600-Œdiperoi@cine.fr
+DESCRIPTION:Œdipe roi
+LOCATION:Salle Salle Georges Franju - La cinémathèque française - 51 Ru
+ e de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/45219.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cécile est morte
+DTSTART:20260307T183000
+DTEND:20260307T200000
+UID:202603071830-Cécileest@cine.fr
+DESCRIPTION:Cécile est morte
+LOCATION:Salle Salle Georges Franju - La cinémathèque française - 51 Ru
+ e de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44519.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ivan le Terrible
+DTSTART:20260315T134500
+DTEND:20260315T165500
+UID:202603151345-IvanleTe@cine.fr
+DESCRIPTION:Ivan le Terrible
+LOCATION:Salle La Filmothèque du Quartier latin - La cinémathèque fran
+ çaise - 51 Rue de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44904.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Atelier Y'a un truc (3-6 ans)
+DTSTART:20260328T153000
+DTEND:20260328T170000
+UID:202603281530-AtelierY'@cine.fr
+DESCRIPTION:Atelier Y'a un truc (3-6 ans)
+LOCATION:Salle Salle libre - La cinémathèque française - 51 Rue de Berc
+ y\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44711.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boulevard de la mort
+DTSTART:20260520T180000
+DTEND:20260520T194500
+UID:202605201800-Boulevard@cine.fr
+DESCRIPTION:Boulevard de la mort
+LOCATION:Salle Salle Henri Langlois - La cinémathèque française - 51 Ru
+ e de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/45215.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Les Désaxés
+DTSTART:20260412T190000
+DTEND:20260412T210400
+UID:202604121900-LesDésaxé@cine.fr
+DESCRIPTION:Les Désaxés
+LOCATION:Salle Salle Henri Langlois - La cinémathèque française - 51 Ru
+ e de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44952.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Les cartoons de Dave Fleischer 
+DTSTART:20260315T113000
+DTEND:20260315T122000
+UID:202603151130-Lescartoo@cine.fr
+DESCRIPTION:Little Nobody\nGreedy Humpty Dumpty\nSo Does an Automobile\nTh
+ e Fresh Vegetable Mystery\nPeeping Penguins\nThe Little Stranger\nKoko's T
+ attoo
+LOCATION:Salle Salle Georges Franju - La cinémathèque française - 51 Ru
+ e de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44869.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stage pratique (3 jours) : le montage
+DTSTART:20260225T100000
+DTEND:20260225T100000
+UID:202602251000-Stageprat@cine.fr
+DESCRIPTION:Stage pratique (3 jours) : le montage
+LOCATION:Salle Salle libre - La cinémathèque française - 51 Rue de Berc
+ y\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44102.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Officier et gentleman
+DTSTART:20260311T140000
+DTEND:20260311T160400
+UID:202603111400-Officiere@cine.fr
+DESCRIPTION:Officier et gentleman
+LOCATION:Salle Salle Georges Franju - La cinémathèque française - 51 Ru
+ e de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44829.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La Veuve noire
+DTSTART:20260314T180000
+DTEND:20260314T194200
+UID:202603141800-LaVeuven@cine.fr
+DESCRIPTION:La Veuve noire
+LOCATION:Salle Salle Georges Franju - La cinémathèque française - 51 Ru
+ e de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44828.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Atelier Créatures fantastiques (13-15 ans)
+DTSTART:20260509T150000
+DTEND:20260509T170000
+UID:202605091500-AtelierCr@cine.fr
+DESCRIPTION:Atelier Créatures fantastiques (13-15 ans)
+LOCATION:Salle Salle libre - La cinémathèque française - 51 Rue de Berc
+ y\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44067.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La Prière aux étoiles
+DTSTART:20260315T190000
+DTEND:20260315T202500
+UID:202603151900-LaPrière@cine.fr
+DESCRIPTION:La Prière aux étoiles
+LOCATION:Salle Salle Georges Franju - La cinémathèque française - 51 Ru
+ e de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44840.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Au nom de la loi
+DTSTART:20260221T171500
+DTEND:20260221T184000
+UID:202602211715-Aunomde@cine.fr
+DESCRIPTION:Au nom de la loi
+LOCATION:Salle Salle Jean Epstein - La cinémathèque française - 51 Rue 
+ de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44526.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Caméra arabe
+DTSTART:20260311T143000
+DTEND:20260311T153400
+UID:202603111430-Caméraara@cine.fr
+DESCRIPTION:Caméra arabe
+LOCATION:Salle Salle Jean Epstein - La cinémathèque française - 51 Rue 
+ de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44842.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tout de suite maintenant
+DTSTART:20260225T153000
+DTEND:20260225T170800
+UID:202602251530-Toutdesu@cine.fr
+DESCRIPTION:Tout de suite maintenant
+LOCATION:Salle Salle Jean Epstein - La cinémathèque française - 51 Rue 
+ de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44395.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:À nous la liberté
+DTSTART:20260220T163000
+DTEND:20260220T180700
+UID:202602201630-Ànousla@cine.fr
+DESCRIPTION:À nous la liberté
+LOCATION:Salle Salle Georges Franju - La cinémathèque française - 51 Ru
+ e de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44566.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Petites coupures
+DTSTART:20260225T203000
+DTEND:20260225T220500
+UID:202602252030-Petitesco@cine.fr
+DESCRIPTION:Petites coupures
+LOCATION:Salle Salle Jean Epstein - La cinémathèque française - 51 Rue 
+ de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44394.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Les Golfes se creusent / J'ai tué votre chat / Le QR code de Fran
+ keasy
+DTSTART:20260216T190000
+DTEND:20260216T200500
+UID:202602161900-LesGolfes@cine.fr
+DESCRIPTION:Les Golfes se creusent\nJ'ai tué votre chat\nLe QR code de Fr
+ ankeasy
+LOCATION:Salle Salle Georges Franju - La cinémathèque française - 51 Ru
+ e de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44613.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Visites-clés : à la découverte de la naissance du cinéma
+DTSTART:20260302T140000
+DTEND:20260302T142000
+UID:202603021400-Visites-cl@cine.fr
+DESCRIPTION:Visites-clés : à la découverte de la naissance du cinéma
+LOCATION:Salle Musée - La cinémathèque française - 51 Rue de Bercy\, 7
+ 5012 Paris
+URL:https://www.cinematheque.fr/seance/44798.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Visites-clés : à la découverte de la naissance du cinéma
+DTSTART:20260223T140000
+DTEND:20260223T142000
+UID:202602231400-Visites-cl@cine.fr
+DESCRIPTION:Visites-clés : à la découverte de la naissance du cinéma
+LOCATION:Salle Musée - La cinémathèque française - 51 Rue de Bercy\, 7
+ 5012 Paris
+URL:https://www.cinematheque.fr/seance/44791.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Le Val d'enfer
+DTSTART:20260223T183000
+DTEND:20260223T195800
+UID:202602231830-LeVald'e@cine.fr
+DESCRIPTION:Le Val d'enfer
+LOCATION:Salle Salle Georges Franju - La cinémathèque française - 51 Ru
+ e de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44540.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Roberte
+DTSTART:20260315T161500
+DTEND:20260315T180100
+UID:202603151615-Roberte@cine.fr
+DESCRIPTION:Roberte
+LOCATION:Salle Grand Action - La cinémathèque française - 51 Rue de Ber
+ cy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44889.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:À la découverte des trucages de Georges Méliès
+DTSTART:20260226T140000
+DTEND:20260226T170000
+UID:202602261400-Àladécou@cine.fr
+DESCRIPTION:À la découverte des trucages de Georges Méliès
+LOCATION:Salle La mezzanine - La cinémathèque française - 51 Rue de Ber
+ cy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44810.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La Mandragore
+DTSTART:20260404T170000
+DTEND:20260404T191100
+UID:202604041700-LaMandrag@cine.fr
+DESCRIPTION:La Mandragore
+LOCATION:Salle Salle Henri Langlois - La cinémathèque française - 51 Ru
+ e de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44986.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Till We Meet Again
+DTSTART:20260315T163000
+DTEND:20260315T175800
+UID:202603151630-TillWeMe@cine.fr
+DESCRIPTION:Till We Meet Again
+LOCATION:Salle Salle Georges Franju - La cinémathèque française - 51 Ru
+ e de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44838.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Manège / L'Arrière-pays
+DTSTART:20260314T203000
+DTEND:20260314T221400
+UID:202603142030-Manège/L@cine.fr
+DESCRIPTION:Manège\nL'Arrière-pays
+LOCATION:Salle Salle Jean Epstein - La cinémathèque française - 51 Rue 
+ de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44871.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pierre ou les ambiguïtés
+DTSTART:20260312T171500
+DTEND:20260312T201500
+UID:202603121715-Pierreou@cine.fr
+DESCRIPTION:Pierre ou les ambiguïtés
+LOCATION:Salle Salle Henri Langlois - La cinémathèque française - 51 Ru
+ e de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44866.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Raid
+DTSTART:20260220T180000
+DTEND:20260220T194100
+UID:202602201800-TheRaid@cine.fr
+DESCRIPTION:The Raid
+LOCATION:Salle Salle Henri Langlois - La cinémathèque française - 51 Ru
+ e de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44376.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Atelier Créatures fantastiques (13-15 ans)
+DTSTART:20260613T150000
+DTEND:20260613T170000
+UID:202606131500-AtelierCr@cine.fr
+DESCRIPTION:Atelier Créatures fantastiques (13-15 ans)
+LOCATION:Salle Salle libre - La cinémathèque française - 51 Rue de Berc
+ y\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44732.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Le Voleur
+DTSTART:20260309T203000
+DTEND:20260309T213000
+UID:202603092030-LeVoleur@cine.fr
+DESCRIPTION:Le Voleur
+LOCATION:Salle Salle Georges Franju - La cinémathèque française - 51 Ru
+ e de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44544.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elle et lui
+DTSTART:20260312T174500
+DTEND:20260312T191300
+UID:202603121745-Elleetlu@cine.fr
+DESCRIPTION:Elle et lui
+LOCATION:Salle Salle Lotte Eisner - La cinémathèque française - 51 Rue 
+ de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44895.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Visites-clés : à la découverte de la naissance du cinéma
+DTSTART:20260308T140000
+DTEND:20260308T142000
+UID:202603081400-Visites-cl@cine.fr
+DESCRIPTION:Visites-clés : à la découverte de la naissance du cinéma
+LOCATION:Salle Musée - La cinémathèque française - 51 Rue de Bercy\, 7
+ 5012 Paris
+URL:https://www.cinematheque.fr/seance/44804.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Justin de Marseille
+DTSTART:20260219T213000
+DTEND:20260219T230900
+UID:202602192130-Justinde@cine.fr
+DESCRIPTION:Justin de Marseille
+LOCATION:Salle Salle Georges Franju - La cinémathèque française - 51 Ru
+ e de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44512.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La Raison du plus fou
+DTSTART:20260311T140000
+DTEND:20260311T153000
+UID:202603111400-LaRaison@cine.fr
+DESCRIPTION:La Raison du plus fou
+LOCATION:Salle Salle Lotte Eisner - La cinémathèque française - 51 Rue 
+ de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44851.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Visites-clés : à la découverte de la naissance du cinéma
+DTSTART:20260225T140000
+DTEND:20260225T142000
+UID:202602251400-Visites-cl@cine.fr
+DESCRIPTION:Visites-clés : à la découverte de la naissance du cinéma
+LOCATION:Salle Musée - La cinémathèque française - 51 Rue de Bercy\, 7
+ 5012 Paris
+URL:https://www.cinematheque.fr/seance/44793.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sous l'océan\, avec Marion Jamault (7-9 ans). Stage des vacances 
+ d'hiver (3 jours) 
+DTSTART:20260225T100000
+DTEND:20260225T100000
+UID:202602251000-Sousl'océ@cine.fr
+DESCRIPTION:Sous l'océan\, avec Marion Jamault (7-9 ans). Stage des vacan
+ ces d'hiver (3 jours)
+LOCATION:Salle Salle libre - La cinémathèque française - 51 Rue de Berc
+ y\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44084.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Le Complot de la famille Inugami
+DTSTART:20260312T200000
+DTEND:20260312T222600
+UID:202603122000-LeComplot@cine.fr
+DESCRIPTION:Le Complot de la famille Inugami
+LOCATION:Salle Salle Georges Franju - La cinémathèque française - 51 Ru
+ e de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44873.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Atelier Traces de lumiere (3-6 ans)
+DTSTART:20260704T153000
+DTEND:20260704T170000
+UID:202607041530-AtelierTr@cine.fr
+DESCRIPTION:Atelier Traces de lumiere (3-6 ans)
+LOCATION:Salle Salle libre - La cinémathèque française - 51 Rue de Berc
+ y\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44714.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La Main du diable
+DTSTART:20260307T140000
+DTEND:20260307T152100
+UID:202603071400-LaMaindu@cine.fr
+DESCRIPTION:La Main du diable
+LOCATION:Salle Salle Georges Franju - La cinémathèque française - 51 Ru
+ e de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44651.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dr. Jekyll and Mr. Hyde
+DTSTART:20260307T143000
+DTEND:20260307T153800
+UID:202603071430-Dr.Jekyll@cine.fr
+DESCRIPTION:Dr. Jekyll and Mr. Hyde
+LOCATION:Salle Salle Henri Langlois - La cinémathèque française - 51 Ru
+ e de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44753.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lidoire / Obsession
+DTSTART:20260309T180000
+DTEND:20260309T185500
+UID:202603091800-Lidoire/@cine.fr
+DESCRIPTION:Lidoire\nObsession
+LOCATION:Salle Salle Georges Franju - La cinémathèque française - 51 Ru
+ e de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44550.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Atelier Suspense (10-12 ans)
+DTSTART:20260321T150000
+DTEND:20260321T170000
+UID:202603211500-AtelierSu@cine.fr
+DESCRIPTION:Atelier Suspense (10-12 ans)
+LOCATION:Salle Salle libre - La cinémathèque française - 51 Rue de Berc
+ y\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44727.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Foolish Matrons
+DTSTART:20260301T190000
+DTEND:20260301T202000
+UID:202603011900-TheFoolis@cine.fr
+DESCRIPTION:The Foolish Matrons
+LOCATION:Salle Salle Georges Franju - La cinémathèque française - 51 Ru
+ e de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44537.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Atelier Traces de lumiere (3-6 ans)
+DTSTART:20260627T153000
+DTEND:20260627T170000
+UID:202606271530-AtelierTr@cine.fr
+DESCRIPTION:Atelier Traces de lumiere (3-6 ans)
+LOCATION:Salle Salle libre - La cinémathèque française - 51 Rue de Berc
+ y\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44713.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shokuzai\, partie 2 : Celles qui voulaient oublier
+DTSTART:20260228T183000
+DTEND:20260228T210200
+UID:202602281830-Shokuzai\,@cine.fr
+DESCRIPTION:Shokuzai\, partie 2 : Celles qui voulaient oublier
+LOCATION:Salle Salle Henri Langlois - La cinémathèque française - 51 Ru
+ e de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44366.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fais ton cinéma comme les pionniers (9-14 ans)
+DTSTART:20260607T143000
+DTEND:20260607T153000
+UID:202606071430-Faistonc@cine.fr
+DESCRIPTION:Fais ton cinéma comme les pionniers (9-14 ans)
+LOCATION:Salle Salle libre - La cinémathèque française - 51 Rue de Berc
+ y\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44737.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:City on Fire
+DTSTART:20260227T180000
+DTEND:20260227T194500
+UID:202602271800-CityonFi@cine.fr
+DESCRIPTION:City on Fire
+LOCATION:Salle Salle Henri Langlois - La cinémathèque française - 51 Ru
+ e de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44363.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rien sur Robert / Leçon de cinéma avec Pascal Bonitzer
+DTSTART:20260221T143000
+DTEND:20260221T173500
+UID:202602211430-RiensurR@cine.fr
+DESCRIPTION:Rien sur Robert\nLeçon de cinéma avec Pascal Bonitzer
+LOCATION:Salle Salle Henri Langlois - La cinémathèque française - 51 Ru
+ e de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44396.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La Dame du vendredi
+DTSTART:20260327T163000
+DTEND:20260327T180200
+UID:202603271630-LaDamedu@cine.fr
+DESCRIPTION:La Dame du vendredi
+LOCATION:Salle Salle Georges Franju - La cinémathèque française - 51 Ru
+ e de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/45223.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:À la découverte des trucages de Georges Méliès
+DTSTART:20260305T140000
+DTEND:20260305T170000
+UID:202603051400-Àladécou@cine.fr
+DESCRIPTION:À la découverte des trucages de Georges Méliès
+LOCATION:Salle La mezzanine - La cinémathèque française - 51 Rue de Ber
+ cy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44814.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Girl's Folly
+DTSTART:20260227T183000
+DTEND:20260227T193500
+UID:202602271830-AGirl'sF@cine.fr
+DESCRIPTION:A Girl's Folly
+LOCATION:Salle Salle Georges Franju - La cinémathèque française - 51 Ru
+ e de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44531.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WarGames
+DTSTART:20260312T170000
+DTEND:20260312T185400
+UID:202603121700-WarGames@cine.fr
+DESCRIPTION:WarGames
+LOCATION:Salle La Filmothèque du Quartier latin - La cinémathèque fran
+ çaise - 51 Rue de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44913.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Atelier Monstres de l'espace (7-9 ans)
+DTSTART:20260307T150000
+DTEND:20260307T170000
+UID:202603071500-AtelierMo@cine.fr
+DESCRIPTION:Atelier Monstres de l'espace (7-9 ans)
+LOCATION:Salle Salle libre - La cinémathèque française - 51 Rue de Berc
+ y\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44053.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Le Tableau volé
+DTSTART:20260223T203000
+DTEND:20260223T220100
+UID:202602232030-LeTableau@cine.fr
+DESCRIPTION:Le Tableau volé
+LOCATION:Salle Salle Georges Franju - La cinémathèque française - 51 Ru
+ e de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44392.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vincent mit l'âne dans un pré (et s'en vint dans l'autre)
+DTSTART:20260313T203000
+DTEND:20260313T221600
+UID:202603132030-Vincentmi@cine.fr
+DESCRIPTION:Vincent mit l'âne dans un pré (et s'en vint dans l'autre)
+LOCATION:Salle Salle Jean Epstein - La cinémathèque française - 51 Rue 
+ de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44887.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Un été pourri
+DTSTART:20260306T190000
+DTEND:20260306T204300
+UID:202603061900-Unétépou@cine.fr
+DESCRIPTION:Un été pourri
+LOCATION:Salle Salle Jean Epstein - La cinémathèque française - 51 Rue 
+ de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44622.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ivan Tsarévitch et la Princesse changeante
+DTSTART:20260304T150000
+DTEND:20260304T155300
+UID:202603041500-IvanTsaré@cine.fr
+DESCRIPTION:Ivan Tsarévitch et la Princesse changeante
+LOCATION:Salle Salle Georges Franju - La cinémathèque française - 51 Ru
+ e de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44598.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Monte là-dessus !
+DTSTART:20260415T200000
+DTEND:20260415T211000
+UID:202604152000-Montelà-d@cine.fr
+DESCRIPTION:Monte là-dessus !
+LOCATION:Salle Salle Henri Langlois - La cinémathèque française - 51 Ru
+ e de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/45055.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Visite guidée du Musée Méliès
+DTSTART:20260314T160000
+DTEND:20260314T173000
+UID:202603141600-Visitegui@cine.fr
+DESCRIPTION:Visite guidée du Musée Méliès
+LOCATION:Salle Musée - La cinémathèque française - 51 Rue de Bercy\, 7
+ 5012 Paris
+URL:https://www.cinematheque.fr/seance/40660.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Journée Ciné-trucs (10-12 ans). Stage des vacances d'hiver (1 jo
+ ur) 
+DTSTART:20260305T100000
+DTEND:20260305T170000
+UID:202603051000-JournéeCi@cine.fr
+DESCRIPTION:Journée Ciné-trucs (10-12 ans). Stage des vacances d'hiver (
+ 1 jour)
+LOCATION:Salle Salle libre - La cinémathèque française - 51 Rue de Berc
+ y\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44085.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Atelier Bim Bam Boum (7-9 ans)
+DTSTART:20260523T150000
+DTEND:20260523T170000
+UID:202605231500-AtelierBi@cine.fr
+DESCRIPTION:Atelier Bim Bam Boum (7-9 ans)
+LOCATION:Salle Salle libre - La cinémathèque française - 51 Rue de Berc
+ y\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44049.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Règlement de comptes à O.K. Corral
+DTSTART:20260313T160000
+DTEND:20260313T180200
+UID:202603131600-Règlement@cine.fr
+DESCRIPTION:Règlement de comptes à O.K. Corral
+LOCATION:Salle Salle Georges Franju - La cinémathèque française - 51 Ru
+ e de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44910.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sept ans de réflexion / Dialogue avec Murielle Joudet
+DTSTART:20260423T190000
+DTEND:20260423T214500
+UID:202604231900-Septansd@cine.fr
+DESCRIPTION:Sept ans de réflexion\nDialogue avec Murielle Joudet
+LOCATION:Salle Salle Henri Langlois - La cinémathèque française - 51 Ru
+ e de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44956.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Les Deux Orphelines
+DTSTART:20260307T161500
+DTEND:20260307T174200
+UID:202603071615-LesDeuxO@cine.fr
+DESCRIPTION:Les Deux Orphelines
+LOCATION:Salle Salle Georges Franju - La cinémathèque française - 51 Ru
+ e de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44539.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ne touchez pas la hache
+DTSTART:20260228T201500
+DTEND:20260228T223200
+UID:202602282015-Netouchez@cine.fr
+DESCRIPTION:Ne touchez pas la hache
+LOCATION:Salle Salle Jean Epstein - La cinémathèque française - 51 Rue 
+ de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44401.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La Belle au bois dormant / Blanche-Neige et Rose-Rouge / Hansel et
+  Gretel / Poucette
+DTSTART:20260308T150000
+DTEND:20260308T154100
+UID:202603081500-LaBellea@cine.fr
+DESCRIPTION:La Belle au bois dormant\nBlanche-Neige et Rose-Rouge\nHansel 
+ et Gretel\nPoucette
+LOCATION:Salle Salle Georges Franju - La cinémathèque française - 51 Ru
+ e de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44599.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Le Syndicat du crime 2
+DTSTART:20260301T211500
+DTEND:20260301T225500
+UID:202603012115-LeSyndica@cine.fr
+DESCRIPTION:Le Syndicat du crime 2
+LOCATION:Salle Salle Henri Langlois - La cinémathèque française - 51 Ru
+ e de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44379.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:L'Éternelle Tentatrice
+DTSTART:20260228T171500
+DTEND:20260228T182500
+UID:202602281715-L'Éternell@cine.fr
+DESCRIPTION:L'Éternelle Tentatrice
+LOCATION:Salle Salle Georges Franju - La cinémathèque française - 51 Ru
+ e de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44545.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:À la découverte des trucages de Georges Méliès
+DTSTART:20260304T140000
+DTEND:20260304T170000
+UID:202603041400-Àladécou@cine.fr
+DESCRIPTION:À la découverte des trucages de Georges Méliès
+LOCATION:Salle La mezzanine - La cinémathèque française - 51 Rue de Ber
+ cy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44813.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Une pluie sans fin
+DTSTART:20260226T180000
+DTEND:20260226T200000
+UID:202602261800-Unepluie@cine.fr
+DESCRIPTION:Une pluie sans fin
+LOCATION:Salle Salle Henri Langlois - La cinémathèque française - 51 Ru
+ e de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44368.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Accusée\, levez-vous !
+DTSTART:20260220T171500
+DTEND:20260220T185700
+UID:202602201715-Accusée\,l@cine.fr
+DESCRIPTION:Accusée\, levez-vous !
+LOCATION:Salle Salle Jean Epstein - La cinémathèque française - 51 Rue 
+ de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44523.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Visites-clés : à la découverte de la naissance du cinéma
+DTSTART:20260307T140000
+DTEND:20260307T142000
+UID:202603071400-Visites-cl@cine.fr
+DESCRIPTION:Visites-clés : à la découverte de la naissance du cinéma
+LOCATION:Salle Musée - La cinémathèque française - 51 Rue de Bercy\, 7
+ 5012 Paris
+URL:https://www.cinematheque.fr/seance/44803.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Partir
+DTSTART:20260221T150000
+DTEND:20260221T164000
+UID:202602211500-Partir@cine.fr
+DESCRIPTION:Partir
+LOCATION:Salle Salle Jean Epstein - La cinémathèque française - 51 Rue 
+ de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44525.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pink Narcissus
+DTSTART:20260315T170000
+DTEND:20260315T181100
+UID:202603151700-PinkNarci@cine.fr
+DESCRIPTION:Pink Narcissus
+LOCATION:Salle L'Archipel - La cinémathèque française - 51 Rue de Bercy
+ \, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44867.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Le Loup de Wall Street
+DTSTART:20260313T210000
+DTEND:20260313T234500
+UID:202603132100-LeLoupde@cine.fr
+DESCRIPTION:Le Loup de Wall Street
+LOCATION:Salle La Filmothèque du Quartier latin - La cinémathèque fran
+ çaise - 51 Rue de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44827.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Je pense à vous
+DTSTART:20260221T190000
+DTEND:20260221T202200
+UID:202602211900-Jepenseà@cine.fr
+DESCRIPTION:Je pense à vous
+LOCATION:Salle Salle Georges Franju - La cinémathèque française - 51 Ru
+ e de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44388.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Le Patriote
+DTSTART:20260304T180000
+DTEND:20260304T194500
+UID:202603041800-LePatriot@cine.fr
+DESCRIPTION:Le Patriote
+LOCATION:Salle Salle Georges Franju - La cinémathèque française - 51 Ru
+ e de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44514.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Atelier Un petit-déjeuner avec Wallace et Gromit (7-9 ans)
+DTSTART:20260620T150000
+DTEND:20260620T170000
+UID:202606201500-AtelierUn@cine.fr
+DESCRIPTION:Atelier Un petit-déjeuner avec Wallace et Gromit (7-9 ans)
+LOCATION:Salle Salle libre - La cinémathèque française - 51 Rue de Berc
+ y\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44722.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Maigret et le mort amoureux
+DTSTART:20260216T200000
+DTEND:20260216T220000
+UID:202602162000-Maigretet@cine.fr
+DESCRIPTION:Maigret et le mort amoureux
+LOCATION:Salle Salle Henri Langlois - La cinémathèque française - 51 Ru
+ e de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44387.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:L'Atlantide
+DTSTART:20260318T173000
+DTEND:20260318T185900
+UID:202603181730-L'Atlantid@cine.fr
+DESCRIPTION:L'Atlantide
+LOCATION:Salle Salle Georges Franju - La cinémathèque française - 51 Ru
+ e de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/45224.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Atelier Le voyage du hérisson (7-9 ans)
+DTSTART:20260509T150000
+DTEND:20260509T170000
+UID:202605091500-AtelierLe@cine.fr
+DESCRIPTION:Atelier Le voyage du hérisson (7-9 ans)
+LOCATION:Salle Salle libre - La cinémathèque française - 51 Rue de Berc
+ y\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44719.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dune
+DTSTART:20260314T213000
+DTEND:20260314T234700
+UID:202603142130-Dune@cine.fr
+DESCRIPTION:Dune
+LOCATION:Salle La Filmothèque du Quartier latin - La cinémathèque fran
+ çaise - 51 Rue de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44865.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Italia: ultimo atto? / Dialogue avec Steve Della casa\, Luc Merend
+ a et Jean-François Rauger
+DTSTART:20260321T143000
+DTEND:20260321T170500
+UID:202603211430-Italia:ul@cine.fr
+DESCRIPTION:Italia: ultimo atto?\nDialogue avec Steve Della casa\, Luc Mer
+ enda et Jean-François Rauger
+LOCATION:Salle Salle Henri Langlois - La cinémathèque française - 51 Ru
+ e de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/45030.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Atelier Un petit-déjeuner avec Wallace et Gromit (7-9 ans)
+DTSTART:20260530T150000
+DTEND:20260530T170000
+UID:202605301500-AtelierUn@cine.fr
+DESCRIPTION:Atelier Un petit-déjeuner avec Wallace et Gromit (7-9 ans)
+LOCATION:Salle Salle libre - La cinémathèque française - 51 Rue de Berc
+ y\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44721.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fais ton cinéma comme les pionniers (9-14 ans)
+DTSTART:20260705T160000
+DTEND:20260705T170000
+UID:202607051600-Faistonc@cine.fr
+DESCRIPTION:Fais ton cinéma comme les pionniers (9-14 ans)
+LOCATION:Salle Salle libre - La cinémathèque française - 51 Rue de Berc
+ y\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44740.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Qui êtes-vous... Maurice Tourneur ? Conférence de Christine Let
+ eux\, précédée d'une signature de son livre
+DTSTART:20260219T190000
+DTEND:20260219T203000
+UID:202602191900-Quiêtes-v@cine.fr
+DESCRIPTION:Qui êtes-vous... Maurice Tourneur ? Conférence de Christine
+  Leteux\, précédée d'une signature de son livre
+LOCATION:Salle Salle Georges Franju - La cinémathèque française - 51 Ru
+ e de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44547.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La Fièvre du samedi soir / Dialogue avec John Badham. Animé par 
+ Jean-François Rauger et Murielle Joudet
+DTSTART:20260314T161500
+DTEND:20260314T191300
+UID:202603141615-LaFièvre@cine.fr
+DESCRIPTION:La Fièvre du samedi soir\nDialogue avec John Badham. Animé p
+ ar Jean-François Rauger et Murielle Joudet
+LOCATION:Salle Salle Henri Langlois - La cinémathèque française - 51 Ru
+ e de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44824.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:L'École dans le viseur
+DTSTART:20260315T180000
+DTEND:20260315T193000
+UID:202603151800-L'Écoleda@cine.fr
+DESCRIPTION:L'École dans le viseur
+LOCATION:Salle Christine Cinéma Club - La cinémathèque française - 51 
+ Rue de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44877.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Un dimanche avec... Alice Guy (dès 8 ans)
+DTSTART:20260412T143000
+DTEND:20260412T170000
+UID:202604121430-Undimanch@cine.fr
+DESCRIPTION:Un dimanche avec... Alice Guy (dès 8 ans)
+LOCATION:Salle Salle libre - La cinémathèque française - 51 Rue de Berc
+ y\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44715.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La Légende de Gösta Berling
+DTSTART:20260308T190000
+DTEND:20260308T220000
+UID:202603081900-LaLégende@cine.fr
+DESCRIPTION:La Légende de Gösta Berling
+LOCATION:Salle Salle Henri Langlois - La cinémathèque française - 51 Ru
+ e de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44756.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Atelier Bim Bam Boum (7-9 ans)
+DTSTART:20260606T150000
+DTEND:20260606T170000
+UID:202606061500-AtelierBi@cine.fr
+DESCRIPTION:Atelier Bim Bam Boum (7-9 ans)
+LOCATION:Salle Salle libre - La cinémathèque française - 51 Rue de Berc
+ y\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44724.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dracula
+DTSTART:20260313T171500
+DTEND:20260313T190700
+UID:202603131715-Dracula@cine.fr
+DESCRIPTION:Dracula
+LOCATION:Salle Salle Henri Langlois - La cinémathèque française - 51 Ru
+ e de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44820.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Aguirre\, la colère de Dieu
+DTSTART:20260403T160000
+DTEND:20260403T173300
+UID:202604031600-Aguirre\,l@cine.fr
+DESCRIPTION:Aguirre\, la colère de Dieu
+LOCATION:Salle Salle Georges Franju - La cinémathèque française - 51 Ru
+ e de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/45217.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Wishing Ring / La Casaque verte
+DTSTART:20260305T203000
+DTEND:20260305T221200
+UID:202603052030-TheWishin@cine.fr
+DESCRIPTION:The Wishing Ring\nLa Casaque verte
+LOCATION:Salle Salle Jean Epstein - La cinémathèque française - 51 Rue 
+ de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44538.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sailor Suit and Machine Gun
+DTSTART:20260314T210000
+DTEND:20260314T231000
+UID:202603142100-SailorSui@cine.fr
+DESCRIPTION:Sailor Suit and Machine Gun
+LOCATION:Salle Salle Georges Franju - La cinémathèque française - 51 Ru
+ e de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44916.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:À la découverte des trucages de Georges Méliès
+DTSTART:20260306T140000
+DTEND:20260306T170000
+UID:202603061400-Àladécou@cine.fr
+DESCRIPTION:À la découverte des trucages de Georges Méliès
+LOCATION:Salle La mezzanine - La cinémathèque française - 51 Rue de Ber
+ cy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44815.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chameleon Street
+DTSTART:20260313T180000
+DTEND:20260313T193400
+UID:202603131800-Chameleon@cine.fr
+DESCRIPTION:Chameleon Street
+LOCATION:Salle Salle Jean Epstein - La cinémathèque française - 51 Rue 
+ de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44859.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Visites-clés : à la découverte de la naissance du cinéma
+DTSTART:20260304T140000
+DTEND:20260304T142000
+UID:202603041400-Visites-cl@cine.fr
+DESCRIPTION:Visites-clés : à la découverte de la naissance du cinéma
+LOCATION:Salle Musée - La cinémathèque française - 51 Rue de Bercy\, 7
+ 5012 Paris
+URL:https://www.cinematheque.fr/seance/44800.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tatami
+DTSTART:20260315T190000
+DTEND:20260315T200300
+UID:202603151900-Tatami@cine.fr
+DESCRIPTION:Tatami
+LOCATION:Salle Salle Jean Epstein - La cinémathèque française - 51 Rue 
+ de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44860.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Journée ciné-burlesque (7- 9 ans)
+DTSTART:20260429T100000
+DTEND:20260429T100000
+UID:202604291000-Journéeci@cine.fr
+DESCRIPTION:Journée ciné-burlesque (7- 9 ans)
+LOCATION:Salle Salle libre - La cinémathèque française - 51 Rue de Berc
+ y\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44742.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:À la découverte des trucages de Georges Méliès
+DTSTART:20260225T140000
+DTEND:20260225T170000
+UID:202602251400-Àladécou@cine.fr
+DESCRIPTION:À la découverte des trucages de Georges Méliès
+LOCATION:Salle La mezzanine - La cinémathèque française - 51 Rue de Ber
+ cy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44809.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La Pègre
+DTSTART:20260219T203000
+DTEND:20260219T221200
+UID:202602192030-LaPègre@cine.fr
+DESCRIPTION:La Pègre
+LOCATION:Salle Salle Henri Langlois - La cinémathèque française - 51 Ru
+ e de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44383.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ginza Cosmetics
+DTSTART:20260314T140000
+DTEND:20260314T152700
+UID:202603141400-GinzaCosm@cine.fr
+DESCRIPTION:Ginza Cosmetics
+LOCATION:Salle Salle Henri Langlois - La cinémathèque française - 51 Ru
+ e de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44849.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Les Fleurs blanches et la Lune / Et quand l'aube viendra / Bel com
+ panho
+DTSTART:20260302T190000
+DTEND:20260302T200900
+UID:202603021900-LesFleurs@cine.fr
+DESCRIPTION:Les Fleurs blanches et la Lune\nEt quand l'aube viendra\nBel c
+ ompanho
+LOCATION:Salle Salle Jean Epstein - La cinémathèque française - 51 Rue 
+ de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44614.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dune
+DTSTART:20260311T200000
+DTEND:20260311T221700
+UID:202603112000-Dune@cine.fr
+DESCRIPTION:Dune
+LOCATION:Salle L'Alcazar (Asnières) - La cinémathèque française - 51 R
+ ue de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44855.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vol au-dessus d'un nid de coucou
+DTSTART:20260313T203000
+DTEND:20260313T224400
+UID:202603132030-Volau-des@cine.fr
+DESCRIPTION:Vol au-dessus d'un nid de coucou
+LOCATION:Salle Le Vincennes - La cinémathèque française - 51 Rue de Ber
+ cy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44864.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Old Boy
+DTSTART:20260219T180000
+DTEND:20260219T195900
+UID:202602191800-OldBoy@cine.fr
+DESCRIPTION:Old Boy
+LOCATION:Salle Salle Henri Langlois - La cinémathèque française - 51 Ru
+ e de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44360.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Jeudi Jeunes – Visite libre du Musée Méliès et enregistrement
   public du PodCast Générik
 DTSTART:20260312T180000
@@ -2691,13 +1559,1373 @@ LOCATION:Salle Musée - La cinémathèque française - 51 Rue de Bercy\, 7
 URL:https://www.cinematheque.fr/seance/44918.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Partir
+SUMMARY:Police Story
 DTSTART:20260221T150000
-DTEND:20260221T164000
-UID:202602211500-Partir@cine.fr
-DESCRIPTION:Partir
+DTEND:20260221T162500
+UID:202602211500-PoliceSto@cine.fr
+DESCRIPTION:Police Story
+LOCATION:Salle Salle Georges Franju - La cinémathèque française - 51 Ru
+ e de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44374.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Visites-clés : à la découverte de la naissance du cinéma
+DTSTART:20260226T140000
+DTEND:20260226T142000
+UID:202602261400-Visites-cl@cine.fr
+DESCRIPTION:Visites-clés : à la découverte de la naissance du cinéma
+LOCATION:Salle Musée - La cinémathèque française - 51 Rue de Bercy\, 7
+ 5012 Paris
+URL:https://www.cinematheque.fr/seance/44794.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cinéma et écologie — Réinventer la critique\, interroger les 
+ pratiques (2ème partie). Journée d'étude — Après-midi (14h30-17h30) 
+  / Détour
+DTSTART:20260311T143000
+DTEND:20260311T185700
+UID:202603111430-Cinémaet@cine.fr
+DESCRIPTION:Cinéma et écologie — Réinventer la critique\, interroger 
+ les pratiques (2ème partie). Journée d'étude — Après-midi (14h30-17h
+ 30) \nDétour
+LOCATION:Salle Salle Henri Langlois - La cinémathèque française - 51 Ru
+ e de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44901.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Princes et Princesses
+DTSTART:20260222T150000
+DTEND:20260222T161000
+UID:202602221500-Princeset@cine.fr
+DESCRIPTION:Princes et Princesses
+LOCATION:Salle Salle Georges Franju - La cinémathèque française - 51 Ru
+ e de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44595.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sonate à Bruxelles / Manneken Pis
+DTSTART:20260311T170000
+DTEND:20260311T184500
+UID:202603111700-SonateàB@cine.fr
+DESCRIPTION:Sonate à Bruxelles\nManneken Pis
+LOCATION:Salle La Filmothèque du Quartier latin - La cinémathèque fran
+ çaise - 51 Rue de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44908.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wives
+DTSTART:20260314T180000
+DTEND:20260314T192700
+UID:202603141800-Wives@cine.fr
+DESCRIPTION:Wives
+LOCATION:Salle Cinéma Reflet Médicis - La cinémathèque française - 51
+  Rue de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44882.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tonnerre de feu
+DTSTART:20260315T140000
+DTEND:20260315T154800
+UID:202603151400-Tonnerred@cine.fr
+DESCRIPTION:Tonnerre de feu
+LOCATION:Salle Salle Georges Franju - La cinémathèque française - 51 Ru
+ e de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44823.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Le Vent se lève
+DTSTART:20260430T183000
+DTEND:20260430T203400
+UID:202604301830-LeVentse@cine.fr
+DESCRIPTION:Le Vent se lève
+LOCATION:Salle Salle Henri Langlois - La cinémathèque française - 51 Ru
+ e de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/45088.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Les Proscrits
+DTSTART:20260305T200000
+DTEND:20260305T214100
+UID:202603052000-LesProscr@cine.fr
+DESCRIPTION:Les Proscrits
+LOCATION:Salle Salle Henri Langlois - La cinémathèque française - 51 Ru
+ e de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44751.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:L'Équipage
+DTSTART:20260302T180000
+DTEND:20260302T195500
+UID:202603021800-L'Équipage@cine.fr
+DESCRIPTION:L'Équipage
+LOCATION:Salle Salle Georges Franju - La cinémathèque française - 51 Ru
+ e de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44541.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stage de 3 jours : Dis-moi ce que tu vois... Je filmerai ce que j'
+ ai entendu (10-12 ans)
+DTSTART:20260422T100000
+DTEND:20260422T100000
+UID:202604221000-Stagede3@cine.fr
+DESCRIPTION:Stage de 3 jours : Dis-moi ce que tu vois... Je filmerai ce qu
+ e j'ai entendu (10-12 ans)
+LOCATION:Salle Salle libre - La cinémathèque française - 51 Rue de Berc
+ y\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44741.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kœnigsmark
+DTSTART:20260222T193000
+DTEND:20260222T212500
+UID:202602221930-Kœnigsmark@cine.fr
+DESCRIPTION:Kœnigsmark
 LOCATION:Salle Salle Jean Epstein - La cinémathèque française - 51 Rue 
  de Bercy\, 75012 Paris
-URL:https://www.cinematheque.fr/seance/44525.html
+URL:https://www.cinematheque.fr/seance/44529.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:City on Fire
+DTSTART:20260227T180000
+DTEND:20260227T194500
+UID:202602271800-CityonFi@cine.fr
+DESCRIPTION:City on Fire
+LOCATION:Salle Salle Henri Langlois - La cinémathèque française - 51 Ru
+ e de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44373.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Atelier Bim Bam Boum (7-9 ans)
+DTSTART:20260523T150000
+DTEND:20260523T170000
+UID:202605231500-AtelierBi@cine.fr
+DESCRIPTION:Atelier Bim Bam Boum (7-9 ans)
+LOCATION:Salle Salle libre - La cinémathèque française - 51 Rue de Berc
+ y\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44723.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pink Narcissus
+DTSTART:20260313T200000
+DTEND:20260313T211100
+UID:202603132000-PinkNarci@cine.fr
+DESCRIPTION:Pink Narcissus
+LOCATION:Salle Ecoles Cinéma Club - La cinémathèque française - 51 Rue
+  de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44856.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Aïe / Dialogue avec Pascal Bonitzer
+DTSTART:20260305T190000
+DTEND:20260305T214300
+UID:202603051900-Aïe/Dial@cine.fr
+DESCRIPTION:Aïe\nDialogue avec Pascal Bonitzer
+LOCATION:Salle Salle Georges Franju - La cinémathèque française - 51 Ru
+ e de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44659.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cherchez Hortense
+DTSTART:20260222T173000
+DTEND:20260222T190600
+UID:202602221730-CherchezH@cine.fr
+DESCRIPTION:Cherchez Hortense
+LOCATION:Salle Salle Georges Franju - La cinémathèque française - 51 Ru
+ e de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44649.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Searching for Debra Winger
+DTSTART:20260314T143000
+DTEND:20260314T161000
+UID:202603141430-Searching@cine.fr
+DESCRIPTION:Searching for Debra Winger
+LOCATION:Salle Salle Lotte Eisner - La cinémathèque française - 51 Rue 
+ de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44831.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Folies de femmes
+DTSTART:20260304T200000
+DTEND:20260304T215100
+UID:202603042000-Foliesde@cine.fr
+DESCRIPTION:Folies de femmes
+LOCATION:Salle Salle Henri Langlois - La cinémathèque française - 51 Ru
+ e de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44750.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Escape-Game « Le Secret de Barbenfouillis »
+DTSTART:20260308T100000
+DTEND:20260308T110000
+UID:202603081000-Escape-Gam@cine.fr
+DESCRIPTION:Escape-Game « Le Secret de Barbenfouillis »
+LOCATION:Salle Musée - La cinémathèque française - 51 Rue de Bercy\, 7
+ 5012 Paris
+URL:https://www.cinematheque.fr/seance/44807.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Le retour du procédé VistaVision. Conférence de Jean-Pierre Ver
+ scheure  
+DTSTART:20260313T140000
+DTEND:20260313T153000
+UID:202603131400-Leretour@cine.fr
+DESCRIPTION:Le retour du procédé VistaVision. Conférence de Jean-Pierre
+  Verscheure
+LOCATION:Salle Salle Georges Franju - La cinémathèque française - 51 Ru
+ e de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44911.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Le Navire des hommes perdus
+DTSTART:20260227T201500
+DTEND:20260227T221500
+UID:202602272015-LeNavire@cine.fr
+DESCRIPTION:Le Navire des hommes perdus
+LOCATION:Salle Salle Georges Franju - La cinémathèque française - 51 Ru
+ e de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44543.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Carol for Another Christmas
+DTSTART:20260315T173000
+DTEND:20260315T185600
+UID:202603151730-Carolfor@cine.fr
+DESCRIPTION:Carol for Another Christmas
+LOCATION:Salle Salle Lotte Eisner - La cinémathèque française - 51 Rue 
+ de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44844.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Killer / Dialogue avec Murielle Joudet
+DTSTART:20260225T190000
+DTEND:20260225T215100
+UID:202602251900-TheKiller@cine.fr
+DESCRIPTION:The Killer\nDialogue avec Murielle Joudet
+LOCATION:Salle Salle Henri Langlois - La cinémathèque française - 51 Ru
+ e de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44357.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Leaving Las Vegas
+DTSTART:20260314T200000
+DTEND:20260314T215100
+UID:202603142000-LeavingLa@cine.fr
+DESCRIPTION:Leaving Las Vegas
+LOCATION:Salle Salle Lotte Eisner - La cinémathèque française - 51 Rue 
+ de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44862.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Atelier C'est quoi le montage ? (13-15 ans)
+DTSTART:20260530T150000
+DTEND:20260530T173000
+UID:202605301500-AtelierC'@cine.fr
+DESCRIPTION:Atelier C'est quoi le montage ? (13-15 ans)
+LOCATION:Salle Salle libre - La cinémathèque française - 51 Rue de Berc
+ y\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44734.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dimanche / Brussels by Night
+DTSTART:20260313T170000
+DTEND:20260313T184700
+UID:202603131700-Dimanche/@cine.fr
+DESCRIPTION:Dimanche\nBrussels by Night
+LOCATION:Salle Centre Wallonie-Bruxelles - La cinémathèque française - 
+ 51 Rue de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44909.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Le Papillon brisé
+DTSTART:20260301T173000
+DTEND:20260301T183000
+UID:202603011730-LePapillo@cine.fr
+DESCRIPTION:Le Papillon brisé
+LOCATION:Salle Salle Georges Franju - La cinémathèque française - 51 Ru
+ e de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44535.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:John McCabe / Dialogue avec Jean-Baptiste Thoret. Animé par Berna
+ rd Benoliel 
+DTSTART:20260426T143000
+DTEND:20260426T173200
+UID:202604261430-JohnMcCab@cine.fr
+DESCRIPTION:John McCabe\nDialogue avec Jean-Baptiste Thoret. Animé par Be
+ rnard Benoliel
+LOCATION:Salle Salle Henri Langlois - La cinémathèque française - 51 Ru
+ e de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/45142.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Encore
+DTSTART:20260218T190000
+DTEND:20260218T203600
+UID:202602181900-Encore@cine.fr
+DESCRIPTION:Encore
+LOCATION:Salle Salle Georges Franju - La cinémathèque française - 51 Ru
+ e de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44393.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Programme 3
+DTSTART:20260315T143000
+DTEND:20260315T160200
+UID:202603151430-Programme@cine.fr
+DESCRIPTION:La Magique Image\nLa Vie champêtre au marais\nLe Voyage imagi
+ naire
+LOCATION:Salle Fondation Jérôme Seydoux Pathé - La cinémathèque fran
+ çaise - 51 Rue de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44891.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Trois frères
+DTSTART:20260330T160000
+DTEND:20260330T175200
+UID:202603301600-Troisfrèr@cine.fr
+DESCRIPTION:Trois frères
+LOCATION:Salle Salle Georges Franju - La cinémathèque française - 51 Ru
+ e de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/45221.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Atelier Y'a un truc (3-6 ans)
+DTSTART:20260329T153000
+DTEND:20260329T170000
+UID:202603291530-AtelierY'@cine.fr
+DESCRIPTION:Atelier Y'a un truc (3-6 ans)
+LOCATION:Salle Salle libre - La cinémathèque française - 51 Rue de Berc
+ y\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44712.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La Pendaison / Dialogue avec Pascal Bonitzer
+DTSTART:20260220T190000
+DTEND:20260220T215700
+UID:202602201900-LaPendais@cine.fr
+DESCRIPTION:La Pendaison\nDialogue avec Pascal Bonitzer
+LOCATION:Salle Salle Georges Franju - La cinémathèque française - 51 Ru
+ e de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44660.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Programme 4
+DTSTART:20260315T170000
+DTEND:20260315T181800
+UID:202603151700-Programme@cine.fr
+DESCRIPTION:Nanouk l'esquimau\nZazavavindrano\, la fille des eaux
+LOCATION:Salle Fondation Jérôme Seydoux Pathé - La cinémathèque fran
+ çaise - 51 Rue de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44890.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Atelier Mr. Fox et sa bande (13-15 ans)
+DTSTART:20260321T150000
+DTEND:20260321T173000
+UID:202603211500-AtelierMr@cine.fr
+DESCRIPTION:Atelier Mr. Fox et sa bande (13-15 ans)
+LOCATION:Salle Salle libre - La cinémathèque française - 51 Rue de Berc
+ y\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44729.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tricheurs
+DTSTART:20260227T183000
+DTEND:20260227T200400
+UID:202602271830-Tricheurs@cine.fr
+DESCRIPTION:Tricheurs
+LOCATION:Salle Salle Jean Epstein - La cinémathèque française - 51 Rue 
+ de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44397.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fantaisie
+DTSTART:20260309T190000
+DTEND:20260309T201900
+UID:202603091900-Fantaisie@cine.fr
+DESCRIPTION:Fantaisie
+LOCATION:Salle Salle Jean Epstein - La cinémathèque française - 51 Rue 
+ de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44615.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Raid 2
+DTSTART:20260220T203000
+DTEND:20260220T225800
+UID:202602202030-TheRaid2@cine.fr
+DESCRIPTION:The Raid 2
+LOCATION:Salle Salle Henri Langlois - La cinémathèque française - 51 Ru
+ e de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44377.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Un dimanche avec... Alice Guy (dès 8 ans)
+DTSTART:20260621T143000
+DTEND:20260621T170000
+UID:202606211430-Undimanch@cine.fr
+DESCRIPTION:Un dimanche avec... Alice Guy (dès 8 ans)
+LOCATION:Salle Salle libre - La cinémathèque française - 51 Rue de Berc
+ y\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44717.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:À la découverte des trucages de Georges Méliès
+DTSTART:20260223T140000
+DTEND:20260223T170000
+UID:202602231400-Àladécou@cine.fr
+DESCRIPTION:À la découverte des trucages de Georges Méliès
+LOCATION:Salle La mezzanine - La cinémathèque française - 51 Rue de Ber
+ cy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44808.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vol au-dessus d'un nid de coucou
+DTSTART:20260312T213000
+DTEND:20260312T234400
+UID:202603122130-Volau-des@cine.fr
+DESCRIPTION:Vol au-dessus d'un nid de coucou
+LOCATION:Salle Salle Henri Langlois - La cinémathèque française - 51 Ru
+ e de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44914.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Les Innocents
+DTSTART:20260227T210000
+DTEND:20260227T224000
+UID:202602272100-LesInnoce@cine.fr
+DESCRIPTION:Les Innocents
+LOCATION:Salle Salle Jean Epstein - La cinémathèque française - 51 Rue 
+ de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44398.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Visites-clés : à la découverte de la naissance du cinéma
+DTSTART:20260222T140000
+DTEND:20260222T142000
+UID:202602221400-Visites-cl@cine.fr
+DESCRIPTION:Visites-clés : à la découverte de la naissance du cinéma
+LOCATION:Salle Musée - La cinémathèque française - 51 Rue de Bercy\, 7
+ 5012 Paris
+URL:https://www.cinematheque.fr/seance/44790.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Volpone
+DTSTART:20260306T213000
+DTEND:20260306T230400
+UID:202603062130-Volpone@cine.fr
+DESCRIPTION:Volpone
+LOCATION:Salle Salle Georges Franju - La cinémathèque française - 51 Ru
+ e de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44517.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La Nouvelle Babylone
+DTSTART:20260306T200000
+DTEND:20260306T212000
+UID:202603062000-LaNouvell@cine.fr
+DESCRIPTION:La Nouvelle Babylone
+LOCATION:Salle Salle Henri Langlois - La cinémathèque française - 51 Ru
+ e de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44752.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:L'An un
+DTSTART:20260313T173000
+DTEND:20260313T193600
+UID:202603131730-L'Anun@cine.fr
+DESCRIPTION:L'An un
+LOCATION:Salle Ecoles Cinéma Club - La cinémathèque française - 51 Rue
+  de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44863.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La Persécution
+DTSTART:20260315T143000
+DTEND:20260315T160300
+UID:202603151430-LaPersécu@cine.fr
+DESCRIPTION:La Persécution
+LOCATION:Salle Salle Jean Epstein - La cinémathèque française - 51 Rue 
+ de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44917.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Programme 2
+DTSTART:20260314T143000
+DTEND:20260314T153800
+UID:202603141430-Programme@cine.fr
+DESCRIPTION:En Espagne\, l'Alcazar de Séville\nGlengarriff\nCorée : vues
+  de Séoul et du port de Chemulpo\nHarar\nFouilles du temple à Abou Simbe
+ l\nJugement de Dedjaz Abraha\nLa Ligne du Yunnan de Laokay à Yunnanfu
+LOCATION:Salle Fondation Jérôme Seydoux Pathé - La cinémathèque fran
+ çaise - 51 Rue de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44893.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fais ton cinéma comme les pionniers (9-14 ans)
+DTSTART:20260705T143000
+DTEND:20260705T153000
+UID:202607051430-Faistonc@cine.fr
+DESCRIPTION:Fais ton cinéma comme les pionniers (9-14 ans)
+LOCATION:Salle Salle libre - La cinémathèque française - 51 Rue de Berc
+ y\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44739.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Visites-clés : à la découverte de la naissance du cinéma
+DTSTART:20260227T140000
+DTEND:20260227T142000
+UID:202602271400-Visites-cl@cine.fr
+DESCRIPTION:Visites-clés : à la découverte de la naissance du cinéma
+LOCATION:Salle Musée - La cinémathèque française - 51 Rue de Bercy\, 7
+ 5012 Paris
+URL:https://www.cinematheque.fr/seance/44795.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Migrations : La Guerre la plus glorieuse
+DTSTART:20260313T203000
+DTEND:20260313T223000
+UID:202603132030-Migrations@cine.fr
+DESCRIPTION:Migrations : La Guerre la plus glorieuse
+LOCATION:Salle Christine Cinéma Club - La cinémathèque française - 51 
+ Rue de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44899.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Atelier Mr. Fox et sa bande (13-15 ans)
+DTSTART:20260418T150000
+DTEND:20260418T173000
+UID:202604181500-AtelierMr@cine.fr
+DESCRIPTION:Atelier Mr. Fox et sa bande (13-15 ans)
+LOCATION:Salle Salle libre - La cinémathèque française - 51 Rue de Berc
+ y\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44730.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Katia
+DTSTART:20260304T203000
+DTEND:20260304T215900
+UID:202603042030-Katia@cine.fr
+DESCRIPTION:Katia
+LOCATION:Salle Salle Georges Franju - La cinémathèque française - 51 Ru
+ e de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44515.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Après l'amour
+DTSTART:20260308T173000
+DTEND:20260308T190500
+UID:202603081730-Aprèsl'am@cine.fr
+DESCRIPTION:Après l'amour
+LOCATION:Salle Salle Georges Franju - La cinémathèque française - 51 Ru
+ e de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44520.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Chaser
+DTSTART:20260221T213000
+DTEND:20260221T233300
+UID:202602212130-TheChaser@cine.fr
+DESCRIPTION:The Chaser
+LOCATION:Salle Salle Henri Langlois - La cinémathèque française - 51 Ru
+ e de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44367.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vienne avant la nuit
+DTSTART:20260313T133000
+DTEND:20260313T144400
+UID:202603131330-Vienneava@cine.fr
+DESCRIPTION:Vienne avant la nuit
+LOCATION:Salle La Filmothèque du Quartier latin - La cinémathèque fran
+ çaise - 51 Rue de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44884.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Once Upon a Time... in Hollywood
+DTSTART:20260314T203000
+DTEND:20260314T230900
+UID:202603142030-OnceUpon@cine.fr
+DESCRIPTION:Once Upon a Time... in Hollywood
+LOCATION:Salle Salle Henri Langlois - La cinémathèque française - 51 Ru
+ e de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44825.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Charade
+DTSTART:20260312T143000
+DTEND:20260312T162300
+UID:202603121430-Charade@cine.fr
+DESCRIPTION:Charade
+LOCATION:Salle Salle Henri Langlois - La cinémathèque française - 51 Ru
+ e de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44835.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fais ton cinéma comme les pionniers (9-14 ans)
+DTSTART:20260607T160000
+DTEND:20260607T170000
+UID:202606071600-Faistonc@cine.fr
+DESCRIPTION:Fais ton cinéma comme les pionniers (9-14 ans)
+LOCATION:Salle Salle libre - La cinémathèque française - 51 Rue de Berc
+ y\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44738.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mon XXe siècle / Ildikó Enyedi par Ildikó Enyedi\, une leçon d
+ e cinéma. Animée par Émilie Cauquy 
+DTSTART:20260328T150000
+DTEND:20260328T174100
+UID:202603281500-MonXXesi@cine.fr
+DESCRIPTION:Mon XXe siècle\nIldikó Enyedi par Ildikó Enyedi\, une leço
+ n de cinéma. Animée par Émilie Cauquy
+LOCATION:Salle Salle Georges Franju - La cinémathèque française - 51 Ru
+ e de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/45039.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Un dimanche avec... Alice Guy (dès 8 ans)
+DTSTART:20260524T143000
+DTEND:20260524T170000
+UID:202605241430-Undimanch@cine.fr
+DESCRIPTION:Un dimanche avec... Alice Guy (dès 8 ans)
+LOCATION:Salle Salle libre - La cinémathèque française - 51 Rue de Berc
+ y\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44716.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Les Yeux sans visage
+DTSTART:20260323T160000
+DTEND:20260323T172800
+UID:202603231600-LesYeuxs@cine.fr
+DESCRIPTION:Les Yeux sans visage
+LOCATION:Salle Salle Georges Franju - La cinémathèque française - 51 Ru
+ e de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/45226.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Visite guidée du Musée Méliès
+DTSTART:20260314T160000
+DTEND:20260314T173000
+UID:202603141600-Visitegui@cine.fr
+DESCRIPTION:Visite guidée du Musée Méliès
+LOCATION:Salle Musée - La cinémathèque française - 51 Rue de Bercy\, 7
+ 5012 Paris
+URL:https://www.cinematheque.fr/seance/40671.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tous au carnaval !
+DTSTART:20260225T150000
+DTEND:20260225T160000
+UID:202602251500-Tousauca@cine.fr
+DESCRIPTION:Page d'écriture\nCarnavallée\nLe Masque du diable\nSaltimban
+ ques\nRuunpe\nVille et Cœur\nParade\nFilante
+LOCATION:Salle Salle Georges Franju - La cinémathèque française - 51 Ru
+ e de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44596.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chacun sa chance
+DTSTART:20260312T203000
+DTEND:20260312T220700
+UID:202603122030-Chacunsa@cine.fr
+DESCRIPTION:Chacun sa chance
+LOCATION:Salle Salle Jean Epstein - La cinémathèque française - 51 Rue 
+ de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44830.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wives III
+DTSTART:20260315T170000
+DTEND:20260315T181600
+UID:202603151700-WivesIII@cine.fr
+DESCRIPTION:Wives III
+LOCATION:Salle Salle Jean Epstein - La cinémathèque française - 51 Rue 
+ de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44880.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pas très catholique
+DTSTART:20260311T193000
+DTEND:20260311T210700
+UID:202603111930-Pastrèsc@cine.fr
+DESCRIPTION:Pas très catholique
+LOCATION:Salle Salle Jean Epstein - La cinémathèque française - 51 Rue 
+ de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44843.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La Preuve d'un homme 
+DTSTART:20260313T203000
+DTEND:20260313T224200
+UID:202603132030-LaPreuve@cine.fr
+DESCRIPTION:La Preuve d'un homme
+LOCATION:Salle Salle Lotte Eisner - La cinémathèque française - 51 Rue 
+ de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44875.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:À la découverte des trucages de Georges Méliès
+DTSTART:20260227T140000
+DTEND:20260227T170000
+UID:202602271400-Àladécou@cine.fr
+DESCRIPTION:À la découverte des trucages de Georges Méliès
+LOCATION:Salle Musée - La cinémathèque française - 51 Rue de Bercy\, 7
+ 5012 Paris
+URL:https://www.cinematheque.fr/seance/44811.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shokuzai\, partie 1 : Celles qui voulaient se souvenir
+DTSTART:20260228T143000
+DTEND:20260228T163200
+UID:202602281430-Shokuzai\,@cine.fr
+DESCRIPTION:Shokuzai\, partie 1 : Celles qui voulaient se souvenir
+LOCATION:Salle Salle Henri Langlois - La cinémathèque française - 51 Ru
+ e de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44365.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Trans-Europ-Express
+DTSTART:20260409T163000
+DTEND:20260409T180400
+UID:202604091630-Trans-Euro@cine.fr
+DESCRIPTION:Trans-Europ-Express
+LOCATION:Salle Salle Georges Franju - La cinémathèque française - 51 Ru
+ e de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/45218.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Il pleut dans mon village
+DTSTART:20260312T200000
+DTEND:20260312T212200
+UID:202603122000-Ilpleutd@cine.fr
+DESCRIPTION:Il pleut dans mon village
+LOCATION:Salle Salle Lotte Eisner - La cinémathèque française - 51 Rue 
+ de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44896.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cinéma et écologie — Réinventer la critique\, interroger les 
+ pratiques (1ère partie). Journée d'étude — Matinée (9h30-13h) 
+DTSTART:20260311T093000
+DTEND:20260311T133000
+UID:202603110930-Cinémaet@cine.fr
+DESCRIPTION:Cinéma et écologie — Réinventer la critique\, interroger 
+ les pratiques (1ère partie). Journée d'étude — Matinée (9h30-13h)
+LOCATION:Salle Salle Henri Langlois - La cinémathèque française - 51 Ru
+ e de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44900.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Les Deux Orphelines
+DTSTART:20260308T143000
+DTEND:20260308T165500
+UID:202603081430-LesDeuxO@cine.fr
+DESCRIPTION:Les Deux Orphelines
+LOCATION:Salle Salle Henri Langlois - La cinémathèque française - 51 Ru
+ e de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44755.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Atelier Mettre le monde en boîte (3-6 ans)
+DTSTART:20260418T153000
+DTEND:20260418T170000
+UID:202604181530-AtelierMe@cine.fr
+DESCRIPTION:Atelier Mettre le monde en boîte (3-6 ans)
+LOCATION:Salle Salle libre - La cinémathèque française - 51 Rue de Berc
+ y\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44709.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Performance
+DTSTART:20260313T183000
+DTEND:20260313T201500
+UID:202603131830-Performanc@cine.fr
+DESCRIPTION:Performance
+LOCATION:Salle Salle Georges Franju - La cinémathèque française - 51 Ru
+ e de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44837.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PTU (Police Tactical Unit) / Dialogue avec Frédéric Ambroisine. 
+ Animé par Jean-François Rauger 
+DTSTART:20260222T170000
+DTEND:20260222T192800
+UID:202602221700-PTU(Polic@cine.fr
+DESCRIPTION:PTU (Police Tactical Unit)\nDialogue avec Frédéric Ambroisin
+ e. Animé par Jean-François Rauger
+LOCATION:Salle Salle Henri Langlois - La cinémathèque française - 51 Ru
+ e de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44385.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Meurtre en suspens
+DTSTART:20260311T170000
+DTEND:20260311T183900
+UID:202603111700-Meurtreen@cine.fr
+DESCRIPTION:Meurtre en suspens
+LOCATION:Salle Salle Georges Franju - La cinémathèque française - 51 Ru
+ e de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44818.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Decision to Leave
+DTSTART:20260226T203000
+DTEND:20260226T224800
+UID:202602262030-Decisiont@cine.fr
+DESCRIPTION:Decision to Leave
+LOCATION:Salle Salle Henri Langlois - La cinémathèque française - 51 Ru
+ e de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44381.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Le Dernier des Mohicans
+DTSTART:20260222T143000
+DTEND:20260222T160300
+UID:202602221430-LeDernier@cine.fr
+DESCRIPTION:Le Dernier des Mohicans
+LOCATION:Salle Salle Henri Langlois - La cinémathèque française - 51 Ru
+ e de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44513.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Bittersweet Life (Director's Cut)
+DTSTART:20260221T183000
+DTEND:20260221T203000
+UID:202602211830-ABittersw@cine.fr
+DESCRIPTION:A Bittersweet Life (Director's Cut)
+LOCATION:Salle Salle Henri Langlois - La cinémathèque française - 51 Ru
+ e de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44361.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Programme 1
+DTSTART:20260314T140000
+DTEND:20260314T153700
+UID:202603141400-Programme@cine.fr
+DESCRIPTION:Broadway by Light\nSymphonie mécanique\nHenri Matisse\nParis 
+ Express ou Souvenir de Paris
+LOCATION:Salle Salle Jean Epstein - La cinémathèque française - 51 Rue 
+ de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44892.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Exilé
+DTSTART:20260222T203000
+DTEND:20260222T221000
+UID:202602222030-Exilé@cine.fr
+DESCRIPTION:Exilé
+LOCATION:Salle Salle Henri Langlois - La cinémathèque française - 51 Ru
+ e de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44375.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stage de 3 jours : Ciné-trucs (9-14 ans)
+DTSTART:20260708T100000
+DTEND:20260708T100000
+UID:202607081000-Stagede3@cine.fr
+DESCRIPTION:Stage de 3 jours : Ciné-trucs (9-14 ans)
+LOCATION:Salle Salle libre - La cinémathèque française - 51 Rue de Berc
+ y\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44743.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Le Client de la morte saison
+DTSTART:20260313T160000
+DTEND:20260313T173000
+UID:202603131600-LeClient@cine.fr
+DESCRIPTION:Le Client de la morte saison
+LOCATION:Salle La Filmothèque du Quartier latin - La cinémathèque fran
+ çaise - 51 Rue de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44853.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Visites-clés : à la découverte de la naissance du cinéma
+DTSTART:20260305T140000
+DTEND:20260305T142000
+UID:202603051400-Visites-cl@cine.fr
+DESCRIPTION:Visites-clés : à la découverte de la naissance du cinéma
+LOCATION:Salle Musée - La cinémathèque française - 51 Rue de Bercy\, 7
+ 5012 Paris
+URL:https://www.cinematheque.fr/seance/44801.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Les Cinéphiles : Le Retour de Jean
+DTSTART:20260314T160000
+DTEND:20260314T171300
+UID:202603141600-LesCinéph@cine.fr
+DESCRIPTION:Les Cinéphiles : Le Retour de Jean
+LOCATION:Salle Salle Jean Epstein - La cinémathèque française - 51 Rue 
+ de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44839.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Les Gaîtés de l'escadron
+DTSTART:20260221T191500
+DTEND:20260221T204000
+UID:202602211915-LesGaîtés@cine.fr
+DESCRIPTION:Les Gaîtés de l'escadron
+LOCATION:Salle Salle Jean Epstein - La cinémathèque française - 51 Rue 
+ de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44527.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:J'ai même rencontré des Tziganes heureux
+DTSTART:20260313T183000
+DTEND:20260313T195200
+UID:202603131830-J'aimême@cine.fr
+DESCRIPTION:J'ai même rencontré des Tziganes heureux
+LOCATION:Salle Christine Cinéma Club - La cinémathèque française - 51 
+ Rue de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44898.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Conte de printemps / Dialogue avec Pascal Bonitzer
+DTSTART:20260226T190000
+DTEND:20260226T215000
+UID:202602261900-Contedep@cine.fr
+DESCRIPTION:Conte de printemps\nDialogue avec Pascal Bonitzer
+LOCATION:Salle Salle Georges Franju - La cinémathèque française - 51 Ru
+ e de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44661.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Liberty Belle
+DTSTART:20260228T150000
+DTEND:20260228T165200
+UID:202602281500-LibertyBe@cine.fr
+DESCRIPTION:Liberty Belle
+LOCATION:Salle Salle Jean Epstein - La cinémathèque française - 51 Rue 
+ de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44399.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Haute Pègre
+DTSTART:20260319T173000
+DTEND:20260319T185300
+UID:202603191730-HautePègr@cine.fr
+DESCRIPTION:Haute Pègre
+LOCATION:Salle Salle Henri Langlois - La cinémathèque française - 51 Ru
+ e de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/45225.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wives\, dix ans après
+DTSTART:20260314T200000
+DTEND:20260314T212800
+UID:202603142000-Wives\,dix@cine.fr
+DESCRIPTION:Wives\, dix ans après
+LOCATION:Salle Cinéma Reflet Médicis - La cinémathèque française - 51
+  Rue de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44881.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mam'zelle Bonaparte
+DTSTART:20260306T193000
+DTEND:20260306T211000
+UID:202603061930-Mam'zelle@cine.fr
+DESCRIPTION:Mam'zelle Bonaparte
+LOCATION:Salle Salle Georges Franju - La cinémathèque française - 51 Ru
+ e de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44516.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alouette\, je te plumerai
+DTSTART:20260315T140000
+DTEND:20260315T153800
+UID:202603151400-Alouette\,@cine.fr
+DESCRIPTION:Alouette\, je te plumerai
+LOCATION:Salle Grand Action - La cinémathèque française - 51 Rue de Ber
+ cy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44888.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Visites-clés : à la découverte de la naissance du cinéma
+DTSTART:20260221T140000
+DTEND:20260221T142000
+UID:202602211400-Visites-cl@cine.fr
+DESCRIPTION:Visites-clés : à la découverte de la naissance du cinéma
+LOCATION:Salle Musée - La cinémathèque française - 51 Rue de Bercy\, 7
+ 5012 Paris
+URL:https://www.cinematheque.fr/seance/44789.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Les Derniers Jours de Pompéi
+DTSTART:20260314T163000
+DTEND:20260314T181700
+UID:202603141630-LesDernie@cine.fr
+DESCRIPTION:Les Derniers Jours de Pompéi
+LOCATION:Salle Fondation Jérôme Seydoux Pathé - La cinémathèque fran
+ çaise - 51 Rue de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44857.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Impasse des Deux-Anges
+DTSTART:20260308T193000
+DTEND:20260308T210500
+UID:202603081930-Impassede@cine.fr
+DESCRIPTION:Impasse des Deux-Anges
+LOCATION:Salle Salle Georges Franju - La cinémathèque française - 51 Ru
+ e de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44521.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La Reine Christine / Dialogue avec Murielle Joudet
+DTSTART:20260513T190000
+DTEND:20260513T213800
+UID:202605131900-LaReineC@cine.fr
+DESCRIPTION:La Reine Christine\nDialogue avec Murielle Joudet
+LOCATION:Salle Salle Henri Langlois - La cinémathèque française - 51 Ru
+ e de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/45188.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Atelier Le voyage du hérisson (7-9 ans)
+DTSTART:20260411T150000
+DTEND:20260411T170000
+UID:202604111500-AtelierLe@cine.fr
+DESCRIPTION:Atelier Le voyage du hérisson (7-9 ans)
+LOCATION:Salle Salle libre - La cinémathèque française - 51 Rue de Berc
+ y\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44718.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La Bruyère blanche
+DTSTART:20260228T190000
+DTEND:20260228T201000
+UID:202602281900-LaBruyère@cine.fr
+DESCRIPTION:La Bruyère blanche
+LOCATION:Salle Salle Georges Franju - La cinémathèque française - 51 Ru
+ e de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44546.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:L'Arche
+DTSTART:20260312T171500
+DTEND:20260312T184600
+UID:202603121715-L'Arche@cine.fr
+DESCRIPTION:L'Arche
+LOCATION:Salle Salle Jean Epstein - La cinémathèque française - 51 Rue 
+ de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44861.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tendres Passions / Dialogue avec Debra Winger. Animé par Pauline 
+ de Raymond 
+DTSTART:20260313T194500
+DTEND:20260313T225700
+UID:202603131945-TendresPa@cine.fr
+DESCRIPTION:Tendres Passions\nDialogue avec Debra Winger. Animé par Pauli
+ ne de Raymond
+LOCATION:Salle Salle Henri Langlois - La cinémathèque française - 51 Ru
+ e de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44832.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Les Aventures du prince Ahmed
+DTSTART:20260301T150000
+DTEND:20260301T160500
+UID:202603011500-LesAventu@cine.fr
+DESCRIPTION:Les Aventures du prince Ahmed
+LOCATION:Salle Salle Georges Franju - La cinémathèque française - 51 Ru
+ e de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44597.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La Fièvre du samedi soir
+DTSTART:20260315T194500
+DTEND:20260315T214300
+UID:202603151945-LaFièvre@cine.fr
+DESCRIPTION:La Fièvre du samedi soir
+LOCATION:Salle La Filmothèque du Quartier latin - La cinémathèque fran
+ çaise - 51 Rue de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44821.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Une victoire
+DTSTART:20260301T204500
+DTEND:20260301T214700
+UID:202603012045-Unevictoi@cine.fr
+DESCRIPTION:Une victoire
+LOCATION:Salle Salle Georges Franju - La cinémathèque française - 51 Ru
+ e de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44536.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Le Maître du logis
+DTSTART:20260315T200000
+DTEND:20260315T214600
+UID:202603152000-LeMaître@cine.fr
+DESCRIPTION:Le Maître du logis
+LOCATION:Salle Salle Henri Langlois - La cinémathèque française - 51 Ru
+ e de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44870.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Okraïna
+DTSTART:20260311T193000
+DTEND:20260311T210800
+UID:202603111930-Okraïna@cine.fr
+DESCRIPTION:Okraïna
+LOCATION:Salle Salle Georges Franju - La cinémathèque française - 51 Ru
+ e de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44903.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Regarde\, elle a les yeux grand ouverts
+DTSTART:20260313T180000
+DTEND:20260313T195000
+UID:202603131800-Regarde\,e@cine.fr
+DESCRIPTION:Regarde\, elle a les yeux grand ouverts
+LOCATION:Salle Salle Lotte Eisner - La cinémathèque française - 51 Rue 
+ de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44852.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ville à vendre
+DTSTART:20260311T161500
+DTEND:20260311T175500
+UID:202603111615-Villeàve@cine.fr
+DESCRIPTION:Ville à vendre
+LOCATION:Salle Salle Jean Epstein - La cinémathèque française - 51 Rue 
+ de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44847.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:L'Oiseau bleu
+DTSTART:20260228T204500
+DTEND:20260228T215900
+UID:202602282045-L'Oiseaub@cine.fr
+DESCRIPTION:L'Oiseau bleu
+LOCATION:Salle Salle Georges Franju - La cinémathèque française - 51 Ru
+ e de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44534.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sonatine\, mélodie mortelle / Dialogue avec Clément Rauger. Anim
+ é par Bernard Benoliel 
+DTSTART:20260301T143000
+DTEND:20260301T170400
+UID:202603011430-Sonatine\,@cine.fr
+DESCRIPTION:Sonatine\, mélodie mortelle\nDialogue avec Clément Rauger. A
+ nimé par Bernard Benoliel
+LOCATION:Salle Salle Henri Langlois - La cinémathèque française - 51 Ru
+ e de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44650.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Atelier Créatures fantastiques (13-15 ans)
+DTSTART:20260509T150000
+DTEND:20260509T170000
+UID:202605091500-AtelierCr@cine.fr
+DESCRIPTION:Atelier Créatures fantastiques (13-15 ans)
+LOCATION:Salle Salle libre - La cinémathèque française - 51 Rue de Berc
+ y\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44731.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Victor comme tout le monde
+DTSTART:20260309T200000
+DTEND:20260309T212800
+UID:202603092000-Victorcom@cine.fr
+DESCRIPTION:Victor comme tout le monde
+LOCATION:Salle Salle Henri Langlois - La cinémathèque française - 51 Ru
+ e de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44402.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Atelier Mettre le monde en boîte (3-6 ans)
+DTSTART:20260419T153000
+DTEND:20260419T170000
+UID:202604191530-AtelierMe@cine.fr
+DESCRIPTION:Atelier Mettre le monde en boîte (3-6 ans)
+LOCATION:Salle Salle libre - La cinémathèque française - 51 Rue de Berc
+ y\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44710.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Main de fer 
+DTSTART:20260313T143000
+DTEND:20260313T164100
+UID:202603131430-Maindefe@cine.fr
+DESCRIPTION:Main de fer\nMain de fer contre la bande aux gants blancs\nMai
+ n de fer et l'évasion du forçat de Croze
+LOCATION:Salle Salle Jean Epstein - La cinémathèque française - 51 Rue 
+ de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44872.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:À la découverte des trucages de Georges Méliès
+DTSTART:20260302T140000
+DTEND:20260302T170000
+UID:202603021400-Àladécou@cine.fr
+DESCRIPTION:À la découverte des trucages de Georges Méliès
+LOCATION:Salle La mezzanine - La cinémathèque française - 51 Rue de Ber
+ cy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44812.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Un thé au Sahara / Dialogue avec Debra Winger. Animé par Pauline
+  de Raymond et Bernard Benoliel 
+DTSTART:20260315T143000
+DTEND:20260315T174800
+UID:202603151430-Unthéau@cine.fr
+DESCRIPTION:Un thé au Sahara\nDialogue avec Debra Winger. Animé par Paul
+ ine de Raymond et Bernard Benoliel
+LOCATION:Salle Salle Henri Langlois - La cinémathèque française - 51 Ru
+ e de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44833.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Péchés de jeunesse
+DTSTART:20260307T203000
+DTEND:20260307T220800
+UID:202603072030-Péchésde@cine.fr
+DESCRIPTION:Péchés de jeunesse
+LOCATION:Salle Salle Georges Franju - La cinémathèque française - 51 Ru
+ e de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44522.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La Phalène blanche
+DTSTART:20260225T200000
+DTEND:20260225T211000
+UID:202602252000-LaPhalène@cine.fr
+DESCRIPTION:La Phalène blanche
+LOCATION:Salle Salle Georges Franju - La cinémathèque française - 51 Ru
+ e de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44542.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La Saga du Napoléon d'Abel Gance
+DTSTART:20260313T133000
+DTEND:20260313T142400
+UID:202603131330-LaSagadu@cine.fr
+DESCRIPTION:La Saga du Napoléon d'Abel Gance
+LOCATION:Salle Salle Lotte Eisner - La cinémathèque française - 51 Rue 
+ de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44834.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Le Grand Alibi
+DTSTART:20260221T210000
+DTEND:20260221T223300
+UID:202602212100-LeGrandA@cine.fr
+DESCRIPTION:Le Grand Alibi
+LOCATION:Salle Salle Georges Franju - La cinémathèque française - 51 Ru
+ e de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44389.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rouge-gorge
+DTSTART:20260312T140000
+DTEND:20260312T154500
+UID:202603121400-Rouge-gorg@cine.fr
+DESCRIPTION:Rouge-gorge
+LOCATION:Salle Salle Lotte Eisner - La cinémathèque française - 51 Rue 
+ de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44886.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Les Envoûtés
+DTSTART:20260222T200000
+DTEND:20260222T214100
+UID:202602222000-LesEnvoût@cine.fr
+DESCRIPTION:Les Envoûtés
+LOCATION:Salle Salle Georges Franju - La cinémathèque française - 51 Ru
+ e de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44391.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Récits d'Ellis Island / Dialogue avec Robert Bober. Animé par Fr
+ édéric Bonnaud et Émilie Cauquy
+DTSTART:20260312T140000
+DTEND:20260312T165600
+UID:202603121400-Récitsd'E@cine.fr
+DESCRIPTION:Récits d'Ellis Island\nDialogue avec Robert Bober. Animé par
+  Frédéric Bonnaud et Émilie Cauquy
+LOCATION:Salle Salle Georges Franju - La cinémathèque française - 51 Ru
+ e de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44885.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vol au-dessus d'un nid de coucou
+DTSTART:20260314T160000
+DTEND:20260314T181400
+UID:202603141600-Volau-des@cine.fr
+DESCRIPTION:Vol au-dessus d'un nid de coucou
+LOCATION:Salle La Filmothèque du Quartier latin - La cinémathèque fran
+ çaise - 51 Rue de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44858.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Visite guidée du Musée Méliès
+DTSTART:20260314T160000
+DTEND:20260314T173000
+UID:202603141600-Visitegui@cine.fr
+DESCRIPTION:Visite guidée du Musée Méliès
+LOCATION:Salle Musée - La cinémathèque française - 51 Rue de Bercy\, 7
+ 5012 Paris
+URL:https://www.cinematheque.fr/seance/40662.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Les Contes de la nuit
+DTSTART:20260218T150000
+DTEND:20260218T162400
+UID:202602181500-LesContes@cine.fr
+DESCRIPTION:Les Contes de la nuit
+LOCATION:Salle Salle Georges Franju - La cinémathèque française - 51 Ru
+ e de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44594.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Avec le sourire
+DTSTART:20260218T200000
+DTEND:20260218T213800
+UID:202602182000-Avecleso@cine.fr
+DESCRIPTION:Avec le sourire
+LOCATION:Salle Salle Henri Langlois - La cinémathèque française - 51 Ru
+ e de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44511.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Étroite surveillance
+DTSTART:20260313T143000
+DTEND:20260313T162700
+UID:202603131430-Étroitesu@cine.fr
+DESCRIPTION:Étroite surveillance
+LOCATION:Salle Salle Henri Langlois - La cinémathèque française - 51 Ru
+ e de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44817.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jimmy le mystérieux
+DTSTART:20260225T180000
+DTEND:20260225T192800
+UID:202602251800-Jimmylem@cine.fr
+DESCRIPTION:Jimmy le mystérieux
+LOCATION:Salle Salle Georges Franju - La cinémathèque française - 51 Ru
+ e de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44530.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Le Maître et Marguerite
+DTSTART:20260313T153000
+DTEND:20260313T171000
+UID:202603131530-LeMaître@cine.fr
+DESCRIPTION:Le Maître et Marguerite
+LOCATION:Salle Salle Lotte Eisner - La cinémathèque française - 51 Rue 
+ de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44897.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sans titre / WarGames
+DTSTART:20260311T200000
+DTEND:20260311T220300
+UID:202603112000-Sanstitre@cine.fr
+DESCRIPTION:Sans titre\nWarGames
+LOCATION:Salle Salle Henri Langlois - La cinémathèque française - 51 Ru
+ e de Bercy\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/44816.html
 END:VEVENT
 END:VCALENDAR
