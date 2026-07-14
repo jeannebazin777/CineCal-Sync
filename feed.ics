@@ -10,7 +10,29 @@ UID:202607181130-Visitegui@cine.fr
 DESCRIPTION:Visite guidée de l'exposition Marilyn Monroe
 LOCATION:Salle Exposition - La cinémathèque française - 51 Rue de Bercy
  \, 75012 Paris
-URL:https://www.cinematheque.fr/seance/45597.html
+URL:https://www.cinematheque.fr/seance/45595.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Visite guidée du Musée Méliès
+DTSTART:20260718T160000
+DTEND:20260718T173000
+UID:202607181600-Visitegui@cine.fr
+DESCRIPTION:Visite guidée du Musée Méliès
+LOCATION:Salle Musée - La cinémathèque française - 51 Rue de Bercy\, 7
+ 5012 Paris
+URL:https://www.cinematheque.fr/seance/45601.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Les Ciné-clubbeurs (15-20 ans) – Cycle de 30 ateliers rencontre
+ -discussion (2026-2027)
+DTSTART:20260930T170000
+DTEND:20260930T190000
+UID:202609301700-LesCiné-c@cine.fr
+DESCRIPTION:Les Ciné-clubbeurs (15-20 ans) – Cycle de 30 ateliers renco
+ ntre-discussion (2026-2027)
+LOCATION:Salle Salle libre - La cinémathèque française - 51 Rue de Berc
+ y\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/45605.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Visite guidée du Musée Méliès
@@ -21,6 +43,28 @@ DESCRIPTION:Visite guidée du Musée Méliès
 LOCATION:Salle Salle Henri Langlois - La cinémathèque française - 51 Ru
  e de Bercy\, 75012 Paris
 URL:https://www.cinematheque.fr/seance/45602.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Les Apprentis cinéastes d'animation (11-13 ans) – Cycle de 30 a
+ teliers à l'année (2026-2027)
+DTSTART:20260923T143000
+DTEND:20260923T160000
+UID:202609231430-LesAppren@cine.fr
+DESCRIPTION:Les Apprentis cinéastes d'animation (11-13 ans) – Cycle de 
+ 30 ateliers à l'année (2026-2027)
+LOCATION:Salle Salle libre - La cinémathèque française - 51 Rue de Berc
+ y\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/45606.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Visite guidée LSF de l'exposition Marilyn Monroe
+DTSTART:20260718T110000
+DTEND:20260718T123000
+UID:202607181100-Visitegui@cine.fr
+DESCRIPTION:Visite guidée LSF de l'exposition Marilyn Monroe
+LOCATION:Salle Exposition - La cinémathèque française - 51 Rue de Bercy
+ \, 75012 Paris
+URL:https://www.cinematheque.fr/seance/45313.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Visite guidée de l'exposition Marilyn Monroe
@@ -40,7 +84,39 @@ UID:202607181130-Visitegui@cine.fr
 DESCRIPTION:Visite guidée de l'exposition Marilyn Monroe
 LOCATION:Salle Exposition - La cinémathèque française - 51 Rue de Bercy
  \, 75012 Paris
-URL:https://www.cinematheque.fr/seance/45595.html
+URL:https://www.cinematheque.fr/seance/45597.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Visite guidée de l'exposition Marilyn Monroe
+DTSTART:20260718T113000
+DTEND:20260718T130000
+UID:202607181130-Visitegui@cine.fr
+DESCRIPTION:Visite guidée de l'exposition Marilyn Monroe
+LOCATION:Salle Exposition - La cinémathèque française - 51 Rue de Bercy
+ \, 75012 Paris
+URL:https://www.cinematheque.fr/seance/45588.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Visite guidée de l'exposition Marilyn Monroe
+DTSTART:20260718T113000
+DTEND:20260718T130000
+UID:202607181130-Visitegui@cine.fr
+DESCRIPTION:Visite guidée de l'exposition Marilyn Monroe
+LOCATION:Salle Exposition - La cinémathèque française - 51 Rue de Bercy
+ \, 75012 Paris
+URL:https://www.cinematheque.fr/seance/45586.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Objectif cinéma (15-18 ans) – Cycle de 15 ateliers de réalisat
+ ion (2026-2027)
+DTSTART:20261007T163000
+DTEND:20261007T190000
+UID:202610071630-Objectifc@cine.fr
+DESCRIPTION:Objectif cinéma (15-18 ans) – Cycle de 15 ateliers de réal
+ isation (2026-2027)
+LOCATION:Salle Salle libre - La cinémathèque française - 51 Rue de Berc
+ y\, 75012 Paris
+URL:https://www.cinematheque.fr/seance/45607.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Visite guidée du Musée Méliès
@@ -54,23 +130,13 @@ URL:https://www.cinematheque.fr/seance/45600.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Visite guidée de l'exposition Marilyn Monroe
-DTSTART:20260718T113000
-DTEND:20260718T130000
-UID:202607181130-Visitegui@cine.fr
+DTSTART:20260719T163000
+DTEND:20260719T180000
+UID:202607191630-Visitegui@cine.fr
 DESCRIPTION:Visite guidée de l'exposition Marilyn Monroe
 LOCATION:Salle Exposition - La cinémathèque française - 51 Rue de Bercy
  \, 75012 Paris
-URL:https://www.cinematheque.fr/seance/45586.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Visite guidée de l'exposition Marilyn Monroe
-DTSTART:20260718T113000
-DTEND:20260718T130000
-UID:202607181130-Visitegui@cine.fr
-DESCRIPTION:Visite guidée de l'exposition Marilyn Monroe
-LOCATION:Salle Exposition - La cinémathèque française - 51 Rue de Bercy
- \, 75012 Paris
-URL:https://www.cinematheque.fr/seance/45588.html
+URL:https://www.cinematheque.fr/seance/45590.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Visite guidée de l'exposition Marilyn Monroe
@@ -93,26 +159,6 @@ LOCATION:Salle Musée - La cinémathèque française - 51 Rue de Bercy\, 7
 URL:https://www.cinematheque.fr/seance/45599.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Visite guidée du Musée Méliès
-DTSTART:20260718T160000
-DTEND:20260718T173000
-UID:202607181600-Visitegui@cine.fr
-DESCRIPTION:Visite guidée du Musée Méliès
-LOCATION:Salle Musée - La cinémathèque française - 51 Rue de Bercy\, 7
- 5012 Paris
-URL:https://www.cinematheque.fr/seance/45601.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Visite guidée de l'exposition Marilyn Monroe
-DTSTART:20260719T163000
-DTEND:20260719T180000
-UID:202607191630-Visitegui@cine.fr
-DESCRIPTION:Visite guidée de l'exposition Marilyn Monroe
-LOCATION:Salle Exposition - La cinémathèque française - 51 Rue de Bercy
- \, 75012 Paris
-URL:https://www.cinematheque.fr/seance/45590.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Visite guidée de l'exposition Marilyn Monroe
 DTSTART:20260718T113000
 DTEND:20260718T130000
@@ -123,14 +169,14 @@ LOCATION:Salle Exposition - La cinémathèque française - 51 Rue de Bercy
 URL:https://www.cinematheque.fr/seance/45594.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Visite guidée de l'exposition Marilyn Monroe
-DTSTART:20260718T113000
-DTEND:20260718T130000
-UID:202607181130-Visitegui@cine.fr
-DESCRIPTION:Visite guidée de l'exposition Marilyn Monroe
+SUMMARY:Visite guidée LSF de l'exposition Marilyn Monroe
+DTSTART:20260718T110000
+DTEND:20260718T123000
+UID:202607181100-Visitegui@cine.fr
+DESCRIPTION:Visite guidée LSF de l'exposition Marilyn Monroe
 LOCATION:Salle Exposition - La cinémathèque française - 51 Rue de Bercy
  \, 75012 Paris
-URL:https://www.cinematheque.fr/seance/45593.html
+URL:https://www.cinematheque.fr/seance/45603.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Visite guidée de l'exposition Marilyn Monroe
@@ -153,23 +199,13 @@ LOCATION:Salle Exposition - La cinémathèque française - 51 Rue de Bercy
 URL:https://www.cinematheque.fr/seance/45587.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Visite guidée LSF de l'exposition Marilyn Monroe
-DTSTART:20260718T110000
-DTEND:20260718T123000
-UID:202607181100-Visitegui@cine.fr
-DESCRIPTION:Visite guidée LSF de l'exposition Marilyn Monroe
+SUMMARY:Visite guidée de l'exposition Marilyn Monroe
+DTSTART:20260718T113000
+DTEND:20260718T130000
+UID:202607181130-Visitegui@cine.fr
+DESCRIPTION:Visite guidée de l'exposition Marilyn Monroe
 LOCATION:Salle Exposition - La cinémathèque française - 51 Rue de Bercy
  \, 75012 Paris
-URL:https://www.cinematheque.fr/seance/45603.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Visite guidée LSF de l'exposition Marilyn Monroe
-DTSTART:20260718T110000
-DTEND:20260718T123000
-UID:202607181100-Visitegui@cine.fr
-DESCRIPTION:Visite guidée LSF de l'exposition Marilyn Monroe
-LOCATION:Salle Exposition - La cinémathèque française - 51 Rue de Bercy
- \, 75012 Paris
-URL:https://www.cinematheque.fr/seance/45313.html
+URL:https://www.cinematheque.fr/seance/45593.html
 END:VEVENT
 END:VCALENDAR
